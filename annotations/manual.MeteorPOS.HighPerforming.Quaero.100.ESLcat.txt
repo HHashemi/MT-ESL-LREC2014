@@ -1,0 +1,502 @@
+#Sentencetypes ref sys 
+#catfile ESL-vilar-cats
+
+others/NNS argue/VBP that/IN developing/VBG economies/NNS like/IN india/NN have/VBP no/DT business/NN helping/VBG wealthy/JJ europeans/NNS when/WRB they/PRP face/VBP their/PRP$ own/JJ profound/JJ economic/JJ challenges/NNS ./.
+others/NNS argue/VBP that/IN emerging/VBG economies/NNS such/JJ as/IN india/NN have/VBP no/DT reason/NN to/TO help/VB the/DT rich/JJ europeans/NNS ,/, even/RB if/IN they/PRP are/VBP facing/VBG major/JJ economic/JJ challenges/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3,4#3,4#para -1#6,7#5,6#para -1#8#7#exact -1#9#8#exact -1#12#10#stem -1#13,14#11#para -1#15#12#exact -1#19#14#exact -1#20,21#15#para -1#23#19#exact -1#24#20#exact -1#25#21#exact 
+-1#3#3#R-sub -1#10#9#R-sub -1#11#-1#R-ins -1#13,14#11#R-sub -1#16#-1#Punc -1#17,18#13#R-sub -1#20,21#15#V -1#22#18#R-sub -1#12#10#V -1#-1#16#R-del -1#-1#17#R-del -1#5#-1#R-ins 
+
+the/DT booklet/NN defined/VBD the/DT mountain/NN as/IN the/DT great/JJ park/NN of/IN the/DT metropolitan/JJ barcelona/NN ./.
+the/DT brochure/NN described/VBD the/DT mountain/NN as/IN a/DT huge/JJ park/NN in/IN barcelona/NN city/NN ./.
+-1#0#0#exact -1#1#1#syn -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6,7#7#para -1#8,9#8,9#para -1#10#12#exact -1#12#13#exact 
+-1#7#7#R-sub -1#9#9#P-repl -1#-1#10#A-mis-the -1#-1#11#R-del -1#11#-1#R-ins -1#2#2#R-sub -1#6#6#A-conf -1#1#1#R-sub 
+
+here/RB i/FW finally/RB understood/VBN why/WRB we/PRP drill/VBP all/PDT the/DT definitions/NNS and/CC rules/NNS of/IN what/WP to/TO combine/VB with/IN what/WP and/CC why/WRB ,/, while/IN in/IN fashion/NN magazines/NNS we/PRP often/RB see/VBP something/NN else/RB ./.
+at/IN last/JJ ,/, it/PRP is/VBZ clear/JJ to/TO me/PRP why/WRB we/PRP need/VBP pauken/NN all/DT these/DT theories/NNS ,/, which/WDT can/MD be/VB combined/VBN with/IN what/WP and/CC why/WRB ,/, even/RB if/IN you/PRP fashion/NN journals/NNS often/RB quite/RB different/JJ to/TO see/VB ./.
+-1#1#2#syn -1#8#4#exact -1#9#5#exact -1#12#7#exact -1#22#10#exact -1#21#13#exact -1#6#14#exact -1#18,19#15#para -1#20#16#exact -1#23#19#exact -1#24#20#exact -1#28#23#exact -1#30#26#exact -1#34#27#exact -1#32,33#29#para -1#35#30#exact 
+-1#2#-1#Punc -1#-1#6#R-del -1#14#9#R-sub -1#-1#12#P-del -1#16#13#R-sub -1#15#-1#Punc -1#-1#21#R-del -1#-1#22#P-del -1#29#24#R-sub -1#-1#25#R-del  -1#-1#28#R-del -1#31#-1#R-ins -1#32#29#R-sub -1#-1#0#R-del -1#-1#1#R-del -1#-1#3#R-del -1#13#8#A-mult -1#-1#11#R-del -1#-1#17#R-del -1#-1#18#R-del -1#0,1#2#R-sub -1#3#-1#R-ins -1#4#-1#R-ins -1#5#-1#R-ins -1#7#-1#R-ins -1#10#-1#R-ins -1#11#-1#R-ins -1#25#-1#R-ins -1#26#-1#P-ins -1#27#-1#R-ins -1#33#-1#R-ins -1#19#15#V -1#17#-1#R-ins 
+
+he/PRP also/RB promised/VBD to/TO solve/VB the/DT bohemians/NNS case/NN ;/: improve/VB relations/NNS with/IN both/DT uefa/NN and/CC fifa/NN ;/: bring/VB more/JJR money/NN to/TO football/NN ;/: and/CC continue/VB the/DT work/NN of/IN the/DT previous/JJ president/NN ,/, ivan/JJ ha/FW /FW ek/FW ./.
+he/PRP also/RB promised/VBD to/TO resolve/VB the/DT case/NN bohemians/NNS to/TO improve/VB relations/NNS with/IN uefa/NN and/CC fifa/NN to/TO bring/VB more/JJR money/NN into/IN the/DT football/NN and/CC otherwise/RB to/TO continue/VB the/DT work/NN of/IN the/DT previous/JJ presiding/VBG ivan/JJ ha/FW /FW ek/FW has/VBZ begun/VBN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#syn -1#5#5#exact -1#7#6#exact -1#6#7#exact -1#9#9#exact -1#10#10#exact -1#11#11#exact -1#12#13#exact -1#13#14#exact -1#14#15#exact -1#16#17#exact -1#17#18#exact -1#18#19#exact -1#8#20#exact -1#21#21#exact -1#22#23#exact -1#25#24#exact -1#26#25#exact -1#27#26#exact -1#28#27#exact -1#29#28#exact -1#30#29#exact -1#31#30#stem -1#32#32#exact -1#33#33#exact -1#34#34#exact -1#35#35#exact -1#38#36#exact 
+ -1#-1#8#Punc -1#8,9#9#V -1#-1#12#R-del -1#-1#16#Punc -1#15,16#17#V -1#19#20#P-repl -1#20#-1#A-ex-the -1#-1#22#Punc -1#23#-1#R-ins -1#24,25#24#V -1#31#30#W -1#-1#31#Punc -1#36,37#-1#R-ins -1#4#4#R-sub 
+
+lyman/NN was/VBD ordered/VBN to/TO visit/VB a/DT military/JJ psychiatrist/NN ,/, who/WP eventually/RB diagnosed/VBD her/PRP with/IN a/DT personality/NN disorder/NN ,/, rendering/VBG her/PRP$ unfit/JJ for/IN service/NN ./.
+lyman/NN was/VBD invited/VBN to/TO visit/VB a/DT military/JJ psychiatrist/NN ,/, in/IN the/DT end/NN ,/, a/DT diagnostizierte/NN personality/NN disorder/NN and/CC declared/VBD them/PRP incompetent/JJ ./.
+-1#0#0#exact -1#1#1#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9,10,11#10#para -1#13#14#exact -1#15#15#exact -1#16#16#exact -1#12#17#exact -1#21#23#exact 
+-1#2#2#R-sub -1#-1#9#R-del -1#14#-1#R-ins -1#12#-1#Punc -1#-1#12#R-del -1#-1#13#P-del -1#19#19#R-sub -1#18#18#R-sub -1#20#20#R-sub -1#-1#11#R-del -1#9,10,11#10#R-sub -1#-1#21#P-del -1#-1#22#R-del -1#17#-1#R-ins 
+
+"/RB as/IN president/NN ,/, i/FW 'd/MD like/VB to/TO focus/VB on/IN football/NN as/IN a/DT whole/NN ./. "/SYM
+"/RB as/IN chairman/NN ,/, i/FW would/MD like/VB to/TO focus/VB on/IN the/DT football/NN as/IN a/DT whole/NN ./. "/SYM
+-1#0#0#exact -1#1#1#exact -1#2#2#syn -1#3#3#exact -1#4#4#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#11#10#exact -1#12#11#exact -1#13#12#exact -1#14#13#exact -1#15#14#exact -1#16#15#exact 
+-1#2#2#R-sub -1#10#-1#A-ex-the -1#5#5#R-sub 
+
+stark/JJ also/RB awarded/VBD a/DT controversial/JJ penalty/NN for/IN handball/NN after/IN a/DT foul/JJ by/IN fabio/NN coentrao/NN -/: misimovic/JJ converted/VBN ./.
+on/IN the/DT other/JJ side/NN ,/, stark/JJ was/VBD a/DT controversial/JJ elfmeter/NN after/IN a/DT campaign/NN by/IN fabio/NN coentrao/NN ,/, misimovic/JJ safe/JJ ./.
+-1#5#0#exact -1#7#3#exact -1#8#4#exact -1#10#8#exact -1#11#9#exact -1#13#11#exact -1#14#12#exact -1#15#13#exact -1#17#15#exact -1#19#17#exact 
+-1#-1#1#R-del -1#-1#2#R-del -1#-1#5#R-del -1#-1#6#P-del -1#-1#7#R-del -1#-1#10#R-del -1#-1#14#Punc -1#-1#16#R-del -1#0#-1#P-ins -1#1#-1#A-ex-the -1#2#-1#R-ins -1#3#-1#R-ins -1#4#-1#Punc -1#6#-1#R-ins -1#9#-1#R-ins -1#12#-1#R-ins -1#16#-1#Punc -1#18#-1#R-ins 
+
+don/VB 't/FW conclude/VBP from/IN this/DT that/WDT liars/NNS are/VBP hard/JJ to/TO spot/VB and/CC difficult/JJ to/TO unmask/VB ./.
+as/IN a/DT result/NN ,/, we/PRP can/MD not/RB conclude/VB that/IN these/DT liars/NNS difficult/JJ to/TO identify/VB and/CC treat/VB ./.
+-1#6#0#para -1#7#2#exact -1#8#5#exact -1#10#6#exact -1#14#11#exact -1#11#12#exact -1#12#13#exact -1#16#15#exact 
+-1#6#0#R-sub -1#-1#1#R-del -1#5#-1#R-ins -1#0#-1#P-ins -1#1#-1#A-ex-a -1#2#-1#R-ins -1#3#-1#Punc -1#4#-1#R-ins -1#-1#3#P-del -1#-1#4#A-other -1#-1#7#R-del -1#-1#8#R-del -1#-1#9#R-del -1#-1#10#R-del -1#9#-1#A-other -1#13#-1#R-ins -1#-1#14#R-del -1#15#-1#R-ins 
+
+however/RB ,/, children/NNS showed/VBD very/RB little/JJ interest/NN in/IN legumes/NNS ,/, fish/RB ,/, and/CC vegetable/NN lunches/NNS ./.
+pulses/NNS liked/VBD children/NNS virtually/RB nonexistent/JJ and/CC the/DT popularity/NN of/IN fish/NN and/CC vegetables/NNS courts/NNS as/IN lunch/NN was/VBD very/RB low/JJ ./.
+-1#2#2#exact -1#15#3#para -1#16#4#exact -1#17#5#para -1#6,7,8#6,7#para -1#9#10#exact -1#10#12#exact -1#11#13#stem -1#18#15#exact 
+ -1#-1#9#Punc -1#-1#11#Punc -1#-1#8#R-del -1#11#13#W -1#14#14#W -1#17#5#R-sub -1#6,7,8#6,7#R-sub -1#-1#0#R-del -1#-1#1#Punc -1#0#-1#R-ins -1#1#-1#R-ins -1#3#-1#R-ins -1#4#-1#R-ins -1#5#-1#R-ins -1#12#-1#R-ins -1#13#-1#P-ins -1#15#3#R-sub 
+
+i/FW know/VBP it/PRP 's/VBZ my/PRP$ fault/NN ,/, i/FW fell/VBD in/IN love/NN with/IN iveta/NN ,/, and/CC i/FW accept/VB full/JJ responsibility/NN ,/, "/CD josef/NN concluded/VBD ./.
+it/PRP is/VBZ clear/JJ to/TO me/PRP that/IN this/DT is/VBZ my/PRP$ fault/NN ,/, i/FW was/VBD in/IN love/NN with/IN iveta/NN and/CC therefore/RB i/FW accept/VB any/DT responsibility/NN ./.
+-1#19#0#exact -1#0#2#exact -1#8#4#exact -1#9#5#exact -1#10#6#exact -1#11#7#exact -1#12#8#para -1#13#9#exact -1#14#10#exact -1#15#11#exact -1#16#12#exact -1#17#14#exact -1#20#16#exact -1#22#18#exact -1#1,2,3,4#22#para -1#23#23#exact 
+-1#12#8#R-sub -1#-1#13#Punc -1#18#-1#R-ins -1#-1#19#Punc -1#-1#21#R-del -1#-1#1#R-del  -1#7#3#R-sub -1#5#-1#P-ins -1#6#-1#A-other -1#-1#15#R-del -1#-1#17#R-del -1#-1#20#Punc -1#-1#22#R-del -1#1#-1#R-ins -1#2#-1#R-ins -1#3#-1#R-ins -1#4#-1#R-ins -1#21#-1#A-other 
+
+in/IN this/DT poor/JJ region/NN ,/, the/DT association/NN is/VBZ enjoying/VBG rapid/JJ success/NN ./.
+in/IN this/DT poor/JJ region/NN ,/, the/DT merger/NN of/IN rapid/JJ success/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#6#para -1#8#9#exact -1#9#10#exact -1#10#11#exact 
+-1#6#6#R-sub -1#-1#7#R-del -1#-1#8#R-del -1#7#-1#P-ins 
+
+it/PRP is/VBZ scheduled/VBN to/TO supply/VB gas/NN for/IN the/DT equivalent/NN of/IN 30/CD million/CD homes/NNS ./.
+it/PRP is/VBZ intended/VBN to/TO provide/VB gas/NN for/IN the/DT equivalent/NN of/IN 30/CD million/CD households/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#3#3#exact -1#4#4#syn -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#10#10#exact -1#11#11#exact -1#12#12#syn -1#13#13#exact 
+-1#2#2#R-sub 
+
+in/IN videos/NNS shot/VBN by/IN kelly/RB in/IN the/DT first/JJ few/JJ weeks/NNS ,/, she/PRP is/VBZ seen/VBN in/IN her/PRP$ hospital/NN bed/NN ,/, her/PRP$ head/NN shaved/VBD and/CC a/DT long/JJ scar/NN across/IN her/PRP$ forehead/NN ./.
+in/IN videos/NNS that/WDT kelly/RB had/VBD recorded/VBN in/IN the/DT first/JJ few/JJ weeks/NNS ,/, you/PRP can/MD see/VB it/PRP in/IN the/DT hospital/NN bed/NN ,/, with/IN kahl/NN shaved/VBD head/NN and/CC a/DT long/JJ scarf/NN on/IN the/DT market/NN ./.
+-1#0#0#exact -1#1#1#exact -1#3#4#exact -1#6#5#exact -1#7#6#exact -1#8#7#exact -1#9#8#exact -1#10#9#exact -1#11#10#exact -1#16#14#exact -1#18#16#exact -1#19#17#exact -1#20#18#exact -1#24#20#exact -1#23#21#exact -1#25#22#exact -1#26#23#exact -1#27#24#exact -1#32#29#exact 
+-1#5#2#R-sub -1#4#-1#V -1#2#-1#R-ins -1#13,14#12,13#V -1#17#-1#A-ex-the -1#22#-1#R-ins  -1#-1#19#R-del -1#-1#3#P-del -1#-1#11#R-del -1#-1#15#R-del -1#-1#25#R-del -1#-1#26#P-del -1#-1#27#R-del -1#-1#28#R-del  -1#12#-1#R-ins -1#15#-1#R-ins -1#21#-1#P-ins -1#28#-1#R-ins -1#29#-1#P-ins -1#30#-1#A-ex-the -1#31#-1#R-ins 
+
+"/CD i/FW 'm/VBP a/DT team/NN player/NN ,/, and/CC i/FW want/VBP to/TO distribute/VB the/DT competences/NNS within/IN the/DT executive/NN board/NN so/RB that/IN each/DT member/NN focuses/VBZ on/IN a/DT certain/JJ area/NN ./. "/SYM
+"/CD i/FW am/VBP a/DT team/NN player/NN and/CC would/MD therefore/RB like/VB to/TO distribute/VB the/DT powers/NNS of/IN the/DT executive/NN committee/NN that/WDT each/DT member/NN pays/VBZ a/DT certain/JJ area/NN ./. "/SYM
+-1#0#0#exact -1#1#1#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#7#exact -1#7,8,9#9#para -1#10#10#exact -1#11#11#exact -1#12#12#exact -1#13#13#para -1#15#15#exact -1#16#16#exact -1#17#17#para -1#18#19#exact -1#19#20#exact -1#20#21#exact -1#22#24#exact -1#23#25#exact -1#24#26#exact -1#25#27#exact -1#26#28#exact 
+-1#-1#6#Punc -1#13#13#R-sub -1#9#9#R-sub -1#-1#8#R-del -1#14#14#P-repl -1#17#17#R-sub -1#21#-1#R-ins -1#-1#2#R-del -1#-1#18#R-del -1#-1#22#R-del -1#-1#23#P-del -1#2#-1#R-ins -1#7#-1#R-ins -1#8#-1#R-ins 
+
+voices/NNS are/VBP coming/VBG from/IN germany/NN ,/, suggesting/VBG that/IN ecb/NN be/VB the/DT last/JJ resort/NN creditor/NN ./.
+in/IN germany/NN ,/, suggesting/VBG that/IN the/DT ecb/NN should/MD be/VB the/DT lender/NN of/IN last/JJ resort/NN ./.
+-1#0,1#3,4#para -1#2#5#exact -1#3#6#exact -1#4#7#exact -1#6#8#exact -1#8#9#exact -1#9#10#exact -1#12#11#exact -1#13#12#exact -1#10#13#para -1#14#14#exact 
+-1#5#-1#A-ex-the -1#10#13#R-sub -1#0#3#P-repl -1#-1#0#R-del -1#-1#1#R-del -1#-1#2#R-del -1#7#-1#R-ins -1#11#-1#P-ins 
+
+"/IN we/PRP are/VBP expecting/VBG a/DT very/RB close/JJ match/NN ,/, but/CC we/PRP are/VBP convinced/VBN that/IN we/PRP can/MD win/VB ,/, declared/VBD the/DT portuguese/JJ trainer/NN aged/VBN 42/CD ./.
+"/IN we/PRP expect/VBP a/DT very/RB close/JJ match/NN ,/, but/CC they/PRP are/VBP completely/RB convinced/VBN ,/, to/TO be/VB able/JJ to/TO gain/VB the/DT upper/JJ hand/NN ,/, "/NN said/VBD the/DT 42/CD -/: year/NN old/JJ portuguese/JJ coach/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2,3#para -1#3#4#exact -1#4#5#exact -1#5#6#exact -1#6#7#exact -1#7#8#exact -1#8#9#exact -1#10#11#exact -1#12#12#exact -1#14,15,16,17#15#para -1#18#16#syn -1#13#17#exact -1#24#18#para -1#25#19#exact -1#30#20#exact -1#31#21#syn -1#26#23#exact -1#32#24#exact 
+-1#2#2,3#V -1#11#-1#R-ins -1#13#-1#Punc -1#18#16#R-sub  -1#31#21#R-sub -1#-1#10#R-del -1#-1#13#P-del -1#-1#14#R-del -1#15,16,17#15#R-sub -1#24#18#R-sub -1#9#-1#R-ins -1#19#-1#A-ex-the -1#20#-1#R-ins -1#21#-1#R-ins -1#22#-1#Punc -1#23#-1#Punc -1#27#-1#Punc -1#28#-1#R-ins -1#29#-1#R-ins -1#-1#22#R-del 
+
+facts/NNS must/MD prevail/VB over/IN dogmas/NNS
+facts/NNS should/MD prevail/VB over/IN dogma/NN
+-1#0#0#exact -1#1#1#para -1#2#2#exact -1#3#3#exact -1#4#4#stem 
+-1#4#4#N -1#1#1#R-sub 
+
+it/PRP has/VBZ its/PRP$ headquarters/NN at/IN zug/NN in/IN switzerland/NN ,/, where/WRB taxation/NN is/VBZ particularly/RB favourable/JJ ./.
+it/PRP has/VBZ its/PRP$ headquarters/NN in/IN train/NN in/IN switzerland/NN ,/, where/WRB the/DT tax/NN is/VBZ particularly/RB favourable/JJ ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#10,11#10#para -1#12#11#exact -1#13#12#exact -1#14#13#exact -1#15#14#exact 
+-1#11#10#W -1#10#-1#A-ex-the -1#-1#4#P-del -1#4#-1#P-ins -1#-1#5#R-del -1#5#-1#R-ins 
+
+the/DT american/JJ bank/NN was/VBD the/DT world/NN 's/POS most/RBS powerful/JJ investment/NN bank/NN ./.
+the/DT american/JJ bank/NN was/VBD the/DT most/RBS powerful/JJ investment/NN bank/NN in/IN the/DT world/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#11#5#exact -1#5#7#exact -1#6#8#exact -1#7#9#exact -1#8#10#exact -1#12#11#exact 
+-1#-1#6#R-del  -1#9#-1#P-ins -1#10#-1#A-ex-the 
+
+a/DT glance/NN at/IN recent/JJ headlines/NNS indicates/VBZ just/RB how/WRB serious/JJ and/CC pervasive/JJ deceit/NN and/CC lying/VBG are/VBP in/IN daily/JJ life/NN ./.
+a/DT glance/NN at/IN the/DT current/JJ headlines/NNS shows/VBZ how/WRB serious/JJ and/CC widespread/JJ deception/NN and/CC lies/VBZ in/IN daily/JJ life/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#5#4#exact -1#6#5#syn -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#10#10#para -1#11#11#syn -1#12#12#exact -1#13#13#stem -1#14#15#exact -1#15#16#exact -1#16#17#exact -1#17#18#exact 
+-1#3#-1#A-ex-the -1#6#5#R-sub -1#-1#6#R-del -1#10#10#R-sub -1#13#13#V -1#-1#14#R-del -1#-1#3#R-del -1#4#-1#R-ins 
+
+on/IN the/DT other/JJ hand/NN ,/, great/JJ britain/NN ,/, finland/RB ,/, poland/NN ,/, the/DT czech/NN republic/NN ,/, the/DT netherlands/NNS ,/, sweden/NN ,/, south/RB africa/RB ,/, china/NN ,/, india/NN ,/, brazil/NN to/TO quote/VB only/RB a/DT few/JJ ,/, pursue/VB their/PRP$ projects/NNS with/IN determination/NN ./.
+britain/NN ,/, finland/RB ,/, poland/NN ,/, the/DT czech/NN republic/NN ,/, the/DT netherlands/NNS ,/, sweden/NN ,/, south/RB africa/RB ,/, china/NN ,/, india/NN and/CC brazil/NN ,/, to/TO name/VB just/RB a/DT few/JJ states/NNS to/TO pursue/VB their/PRP$ projects/NNS against/IN it/PRP with/IN determination/NN ./.
+-1#10#1#exact -1#34#2,3#para -1#23#4#exact -1#0#6#exact -1#1#7#exact -1#2#8#exact -1#3#9#exact -1#4#10#exact -1#5#11#exact -1#6#12#exact -1#7#13#exact -1#8#14#exact -1#9#15#exact -1#11#17#exact -1#12#18#exact -1#13#19#exact -1#14#20#exact -1#15#21#exact -1#16#22#exact -1#17#23#exact -1#18#24#exact -1#19#25#exact -1#20#26#exact -1#22#28#exact -1#24,25#29,30#para -1#26,27#31,32#para -1#28#33#exact -1#31#35#exact -1#32#36#exact -1#33#37#exact -1#36#38#exact -1#37#39#exact -1#38#40#exact 
+-1#21#-1#R-ins -1#23#-1#Punc -1#-1#34#Punc -1#25#30#R-sub -1#29#-1#R-ins -1#-1#0#P-del -1#34#2,3#R-sub -1#-1#5#R-del -1#-1#27#Punc -1#30#-1#R-ins -1#35#-1#R-ins -1#26#31#R-sub -1#-1#1#A-mis-the 
+
+"/CD you/PRP sometimes/RB feel/VBP such/JJ things/NNS ,/, "/NN explained/VBD jágr/NN ,/, after/IN whose/WP$ action/NN giroux/NN scored/VBD a/DT goal/NN on/IN the/DT first/JJ flyers/NNS "/VBP shot/NN ./.
+"/CD every/DT now/RB and/CC again/RB ,/, such/PDT a/DT feeling/NN ,/, "/CD jágr/NN said/VBD ,/, after/IN its/PRP$ action/NN giroux/NN has/VBZ already/RB been/VBN achieved/VBN in/IN the/DT first/JJ shot/NN of/IN the/DT flyers/NNS a/DT goal/NN ./.
+-1#0#0#exact -1#1,2,3,4#2#para -1#7,8#3#para -1#6#4#exact -1#9#6#exact -1#10#7#exact -1#12#8#para -1#11#9#exact -1#13#10#exact -1#14#11#exact -1#15#12#para -1#16#13#exact -1#17#14#exact -1#29#16#exact -1#30#17#exact -1#23#19#exact -1#24#20#exact -1#28#21#exact -1#25#23#exact -1#31#24#exact 
+-1#-1#1#R-del -1#5#-1#Punc -1#-1#5#R-del -1#7#-1#A-ex-a -1#15#12#R-sub -1#12#8#R-sub -1#1,2,3,4#2#R-sub  -1#27#-1#A-ex-the -1#26#-1#P-ins  -1#22#18#P-repl -1#-1#15#R-del -1#-1#22#Punc -1#18#-1#R-ins -1#19#-1#R-ins -1#20#-1#R-ins -1#21#-1#R-ins -1#8#3#R-sub 
+
+the/DT fire/NN brigade/NN was/VBD informed/VBN and/CC had/VBD to/TO free/VB a/DT seriously/RB injured/JJ 23/CD year/NN old/JJ from/IN the/DT car/NN wreck/NN and/CC take/VB him/PRP to/TO hospital/NN ./.
+the/DT alarmed/JJ firefighters/NNS had/VBD to/TO extricate/VB a/DT badly/RB injured/JJ 23/CD -/: year/NN old/JJ from/IN the/DT car/NN wreck/NN and/CC in/IN a/DT hospital/NN ./.
+-1#0#0#exact -1#2#1,2#para -1#3#6#exact -1#4#7#exact -1#6#9#exact -1#7#10#syn -1#8#11#exact -1#9#12#exact -1#11#13#exact -1#12#14#exact -1#13#15#exact -1#14#16#exact -1#15#17#exact -1#16#18#exact -1#17#19#exact -1#20#23#exact -1#21#24#exact 
+-1#1#-1#R-ins -1#2#1,2#R-sub -1#5#8#R-sub -1#10#-1#Punc -1#19#-1#A-ex-a -1#18#22#P-repl -1#-1#3#R-del -1#-1#4#R-del -1#-1#5#R-del -1#-1#20#R-del -1#-1#21#R-del -1#7#10#R-sub 
+
+the/DT diverse/JJ political/JJ representation/NN ,/, in/IN the/DT election/NN time/NN ,/, showed/VBD the/DT unitary/JJ character/NN of/IN the/DT work/NN done/VBN by/IN trinijove/NN ./.
+the/DT participation/NN of/IN political/JJ representatives/NNS from/IN different/JJ directions/NNS to/TO election/NN campaigns/NNS ,/, the/DT impartiality/NN of/IN the/DT work/NN done/VBN by/IN trinijove/NN ./.
+-1#0#0#exact -1#6#1#para -1#3#2#exact -1#4#3#para -1#11#4#exact -1#9#7#exact -1#12#11#exact -1#2#14#exact -1#15#15#exact -1#16#16#exact -1#17#17#exact -1#18#18#exact -1#19#19#exact -1#20#20#exact 
+-1#4#3#W -1#1#-1#R-ins -1#6#1#R-sub -1#-1#5#P-del -1#-1#6#A-mis-the -1#-1#8#R-del -1#-1#9#Punc -1#-1#10#R-del -1#-1#12#R-del -1#-1#13#R-del -1#5#-1#P-ins -1#7#-1#R-ins -1#8#-1#R-ins -1#10#-1#R-ins -1#13#-1#R-ins -1#2#-1#P-ins 
+
+a/DT new/JJ york/NN family/NN claims/VBZ that/IN disco/NN diva/NN patti/NNS labelle/VBP launched/VBN into/IN a/DT rampage/NN in/IN the/DT lobby/NN of/IN their/PRP$ manhattan/NN building/NN ,/, terrifying/JJ their/PRP$ toddler/NN daughter/NN to/TO the/DT point/NN where/WRB she/PRP threw/VBD up/RP in/IN fear/NN ./.
+a/DT new/JJ york/NN family/NN claims/VBZ that/IN the/DT disco/NN diva/NN patti/NNS labelle/VBP in/IN the/DT lobby/NN of/IN their/PRP$ manhattaner/NN building/NN ,/, a/DT tobsuchtanfall/NN ,/, their/PRP$ small/JJ daughter/NN in/IN fear/NN that/IN they/PRP fear/VBP ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#7#6#exact -1#8#7#exact -1#9#8#exact -1#10#9#exact -1#19#12#exact -1#11#14#exact -1#12#15#exact -1#13#16#exact -1#14#17#exact -1#15#18#exact -1#16#19#stem -1#17#20#exact -1#18#21#exact -1#22#23#exact -1#24#25#exact -1#6#27#exact -1#25#33#exact -1#26#34#exact -1#30#35#exact 
+-1#16#19#W -1#20#-1#R-ins -1#-1#13#R-del -1#-1#22#R-del  -1#-1#10#R-del -1#-1#11#P-del -1#-1#24#P-del -1#-1#26#P-del -1#-1#28#P-del -1#-1#29#P-del -1#-1#30#P-del -1#-1#31#P-del -1#-1#32#P-del -1#21#-1#Punc -1#23#-1#R-ins -1#27#-1#P-ins -1#28#-1#R-ins -1#29#-1#R-ins 
+
+in/IN addition/NN to/TO the/DT unemployment/NN and/CC informality/NN ,/, another/DT state/NN labor/NN reminder/NN is/VBZ represented/VBN by/IN low/JJ wages/NNS ;/: the/DT entity/NN has/VBZ the/DT lowest/JJS wages/NNS in/IN the/DT country/NN ,/, according/VBG to/TO the/DT records/NNS of/IN the/DT mexican/JJ social/JJ security/NN institute/NN and/CC the/DT ministry/NN of/IN labor/NN and/CC social/JJ welfare/NN ./.
+with/IN regard/NN to/TO unemployment/NN and/CC undeclared/JJ low/JJ wages/NNS ,/, the/DT lowest/JJS in/IN mexico/NN ,/, according/VBG to/TO the/DT statistics/NNS of/IN the/DT instituto/JJ mexicano/NN del/DT seguro/NN social/JJ (/NN mexican/JJ social/JJ security/NN institution/NN )/CD and/CC the/DT secretaría/NN del/FW trabajo/FW y/FW previsión/FW social/JJ (/NN governmental/JJ authority/NN for/IN work/NN and/CC social/JJ welfare/NN in/IN mexico/NN )/NN ./.
+-1#11#0#exact -1#15#2#exact -1#16#3#exact -1#3#4#exact -1#4#5#exact -1#8#7#exact -1#40#9#para -1#36#12#para -1#6#15#exact -1#7#16#exact -1#19#18#exact -1#9#21#exact -1#10#22#exact -1#47#24#exact -1#32#25#exact -1#13#27#exact -1#14#28#exact -1#2#29#exact -1#18#32#exact -1#12#33,34#para -1#27#35#exact -1#28#36#exact -1#29#37#stem -1#31#38#exact -1#43#41,42#para -1#44#43#exact -1#45#44#exact -1#46#45#exact -1#50#46#exact 
+-1#29#37#W -1#-1#39#A-mis-the -1#-1#40#R-del -1#42#41#P-repl -1#43#42#R-sub -1#5#-1#R-ins -1#-1#1#R-del -1#-1#6#R-del -1#-1#23#R-del -1#-1#26#R-del -1#-1#17#Punc -1#20#-1#R-ins -1#21#-1#R-ins -1#22#-1#R-ins -1#23#-1#R-ins -1#24#-1#R-ins -1#33#-1#R-ins -1#34#-1#R-ins -1#35#-1#R-ins -1#36#-1#R-ins -1#37#-1#R-ins -1#38#-1#R-ins -1#-1#8#A-other -1#-1#10#R-del -1#-1#11#R-del -1#-1#13#R-del -1#-1#14#P-del -1#-1#19#R-del -1#-1#20#R-del -1#-1#30#A-ex-the -1#-1#31#R-del -1#-1#33#A-mis-the -1#25#-1#Punc -1#30#-1#Punc -1#39#-1#Punc -1#49#-1#Punc -1#41#-1#R-ins -1#48#-1#R-ins -1#26,40#-1#R-ins -1#0#-1#P-ins -1#1#-1#R-ins -1#17#-1#R-ins 
+
+now/RB that/IN we/PRP are/VBP 7/CD thousand/CD million/CD human/JJ beings/NNS on/IN the/DT planet/NN ,/, demographic/JJ development/NN will/MD involve/VB a/DT doubling/NN of/IN demand/NN for/IN electricity/NN by/IN 2050/CD ,/, unless/IN a/DT huge/JJ proportion/NN of/IN the/DT world/NN 's/POS population/NN is/VBZ deprived/VBN of/IN a/DT vital/JJ element/NN ./.
+although/IN 7/CD billion/CD people/NNS on/IN this/DT planet/NN ,/, the/DT demographic/JJ evolution/NN a/DT doubling/NN of/IN electricity/NN demand/NN by/IN 2050/CD ,/, is/VBZ not/RB a/DT huge/JJ proportion/NN of/IN the/DT world/NN 's/POS population/NN on/IN a/DT vital/JJ element/NN ./.
+-1#1#4#exact -1#2#6#syn -1#3#7,8#para -1#4#9#exact -1#8#10#exact -1#6#11#exact -1#7#12#exact -1#9#13#exact -1#10#14#syn -1#11#17#exact -1#12#18#exact -1#13#19#exact -1#15#20#exact -1#14#22#exact -1#16#23#exact -1#17#24#exact -1#18#25#exact -1#21#27#exact -1#22#28#exact -1#23#29#exact -1#24#30#exact -1#25#31#exact -1#26#32#exact -1#27#33#exact -1#28#34#exact -1#19#35#exact -1#30#38#exact -1#31#39#exact -1#32#40#exact -1#33#41#exact 
+-1#0#-1#R-ins -1#3#7,8#R-sub -1#-1#10#A-mis-the -1#10#14#R-sub -1#8#-1#A-ex-the -1#29#37#P-repl -1#20#-1#R-ins -1#5#-1#A-other -1#-1#0#R-del -1#-1#1#P-del -1#-1#2#R-del -1#-1#3#R-del -1#-1#5#R-del -1#2#6#R-sub -1#-1#15#R-del -1#-1#16#R-del -1#13#21#P-repl -1#-1#36#R-del -1#-1#26#P-del 
+
+we/PRP have/VBP nothing/NN to/TO gain/VB from/IN demanding/VBG a/DT succession/NN of/IN national/JJ referendums/NNS organised/VBN as/IN required/VBN and/CC in/IN a/DT confused/JJ sequence/NN ./.
+we/PRP have/VBP nothing/NN to/TO gain/VB ,/, in/IN order/NN to/TO push/VB for/IN the/DT success/NN of/IN the/DT national/JJ referendum/NN ,/, which/WDT ,/, in/IN accordance/NN with/IN the/DT requirements/NNS and/CC has/VBZ been/VBN organised/VBN in/IN a/DT perverse/JJ sequence/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#30#7#exact -1#12#8#stem -1#13#9#exact -1#15#10#exact -1#16#11#stem -1#28#12#exact -1#24#14#stem -1#25#15#exact -1#6#16#exact -1#32#19#exact -1#33#20#exact 
+-1#16#11#N -1#14#-1#A-ex-the -1#12#8#W -1#11#-1#A-ex-the -1#-1#7#A-mis-a -1#10#-1#P-ins -1#5#-1#Punc -1#17#-1#Punc -1#19#-1#Punc -1#24#14#W -1#-1#5#P-del -1#-1#6#R-del -1#-1#13#P-del -1#-1#17#A-mis-a -1#-1#18#R-del -1#7#-1#R-ins -1#8#-1#R-ins -1#9#-1#R-ins -1#18#-1#R-ins -1#20#-1#P-ins -1#21#-1#R-ins -1#22#-1#P-ins -1#23#-1#A-ex-the -1#26#-1#R-ins -1#27#-1#R-ins -1#29#-1#P-ins -1#31#-1#R-ins 
+
+on/IN monday/NN ,/, the/DT legal/JJ representative/NN of/IN red/JJ casino/NN ,/, victor/NN aldo/NN garcia/NN gomez/NN ,/, appeared/VBD before/IN the/DT judge/NN josé/NNP luis/NNP pecina/NN to/TO seek/VB pardon/NN for/IN the/DT regional/JJ mayor/NN 's/POS brother/NN ,/, so/RB that/IN in/IN the/DT coming/VBG hours/NNS he/PRP might/MD regain/VB his/PRP$ freedom/NN ./.
+this/DT monday/NN asked/VBD the/DT trustees/NNS of/IN the/DT casino/NN red/NN ,/, víctor/NN aldo/NN garcía/NN gómez/NN judge/NN josé/NNP luis/NNP pecina/NN ,/, the/DT brother/NN of/IN the/DT mayor/NN to/TO cancel/VB the/DT penalty/NN ,/, which/WDT is/VBZ why/WRB he/PRP will/MD be/VB in/IN the/DT next/JJ few/JJ hours/NNS ./.
+-1#1#1#exact -1#18#2#exact -1#19#3#exact -1#4#5#para -1#5#6#exact -1#8#7#exact -1#7#8#exact -1#9#9#exact -1#11#11#exact -1#12#12#para -1#28#14#exact -1#3#17#exact -1#14#18#exact -1#15#19#exact -1#16#20#exact -1#17#21#exact -1#24#22#exact -1#6#26#exact -1#23#28#exact -1#20#30#exact -1#35,36,37,38,39#34,35,36,37#para -1#32#38#exact -1#40#43#exact 
+-1#-1#0#P-del -1#2#-1#R-ins -1#-1#17#A-mis-the -1#18#-1#Punc -1#-1#27#R-del  -1#-1#2#Punc -1#-1#4#R-del -1#4#5#R-sub -1#-1#10#R-del -1#12#12#R-sub -1#-1#13#R-del -1#13#-1#R-ins -1#-1#15#R-del -1#-1#16#P-del -1#-1#23#R-del -1#-1#24#R-del -1#-1#25#P-del -1#-1#29#R-del -1#-1#31#Punc -1#-1#32#R-del -1#-1#33#P-del -1#21#-1#P-ins -1#22#-1#A-ex-the -1#25#-1#R-ins -1#26#-1#A-ex-the -1#27#-1#R-ins -1#29#-1#R-ins -1#30#-1#R-ins -1#31#-1#R-ins -1#33#-1#R-ins -1#34#-1#R-ins -1#-1#36#R-del -1#37,38#-1#R-ins -1#0#-1#A-other -1#-1#39#R-del -1#-1#40#R-del -1#-1#41#R-del -1#-1#42#R-del 
+
+this/DT is/VBZ most/RBS obvious/JJ at/IN the/DT end/NN of/IN the/DT game/NN ,/, on/IN a/DT long/JJ bridge/NN ,/, where/WRB you/PRP are/VBP driving/VBG in/IN the/DT opposite/JJ direction/NN ./.
+the/DT most/RBS madman/NN 's/POS is/VBZ at/IN the/DT end/NN of/IN the/DT game/NN on/IN the/DT long/JJ bridge/NN ,/, which/WDT is/VBZ happening/VBG in/IN the/DT opposite/JJ direction/NN ./.
+-1#4#1#exact -1#1#2#exact -1#5#4#exact -1#6#5#exact -1#7#6#exact -1#8#7#exact -1#9#8#exact -1#10#9#exact -1#15#10#exact -1#11#11#exact -1#12,13#12,13#para -1#14#14#exact -1#16#16,17#para -1#17#18#syn -1#19#20#exact -1#20#21#exact -1#21#22#exact -1#22#23#exact -1#23#24#exact 
+-1#12#12#A-conf  -1#0#-1#A-ex-the -1#-1#3#R-del  -1#-1#10#Punc -1#-1#0#A-other -1#-1#15#Punc -1#17#18#V -1#16#16#R-sub -1#-1#17#R-del -1#-1#19#R-del -1#18#-1#R-ins -1#2#-1#R-ins -1#3#-1#R-ins 
+
+the/DT regulator/NN had/VBD also/RB approached/VBN other/JJ major/JJ banks/NNS and/CC sued/VBD jpmorgan/JJ chase/NN ,/, the/DT royal/NN bank/NN of/IN scotland/NN and/CC goldman/NN sachs/NNS in/IN the/DT summer/NN ./.
+the/DT regulator/NN had/VBD also/RB attacked/VBN other/JJ big/JJ banks/NNS ,/, and/CC in/IN the/DT summer/NN of/IN jpmorgan/JJ chase/NN ,/, the/DT royal/NN bank/NN of/IN scotland/NN and/CC goldman/NN sachs/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#syn -1#5,6#5,6#para -1#7#7#exact -1#9#8#exact -1#14#10#exact -1#15#11#exact -1#16#12#exact -1#17#13#exact -1#18#14#exact -1#19#15#exact -1#20#16#exact -1#21#17#exact -1#22#18#exact -1#23#19#exact -1#24#20#exact -1#10#21#exact -1#11#22#exact -1#12#23#exact -1#25#24#exact 
+-1#4#4#R-sub -1#6#6#R-sub -1#8#-1#Punc -1#13#-1#P-ins -1#-1#9#R-del 
+
+investment/NN is/VBZ intended/VBN to/TO improve/VB the/DT availability/NN of/IN locomotives/NNS and/CC the/DT rail/NN network/NN ,/, even/RB in/IN the/DT face/NN of/IN extreme/JJ weather/NN conditions/NNS ./.
+this/DT should/MD be/VB achieved/VBN a/DT better/JJR availability/NN of/IN vehicles/NNS and/CC rail/NN network/NN in/IN extreme/JJ witterungen/NN ./.
+-1#1,2#1,2,3#para -1#5#4,5#para -1#6#6#exact -1#7#7#exact -1#9#9#exact -1#10#11#exact -1#11#12#exact -1#12#15#exact -1#13#19#exact -1#15#22#exact 
+-1#14#-1#R-ins -1#-1#16#A-mis-the -1#-1#0#R-del -1#-1#10#A-mis-the -1#-1#13#Punc -1#-1#14#R-del -1#-1#8#R-del -1#-1#17#R-del -1#-1#18#P-del -1#-1#20#R-del -1#-1#21#R-del -1#0#-1#A-other -1#3#-1#R-ins -1#4#-1#A-ex-a -1#8#-1#R-ins -1#5#-1#R-ins -1#1#-1#R-ins -1#2#-1#R-ins -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#R-del -1#-1#4#R-del -1#-1#5#A-mis-the 
+
+its/PRP$ ratification/NN would/MD require/VB 226/CD votes/NNS ./.
+226/CD votes/NNS would/MD have/VB been/VBN required/VBN for/IN its/PRP$ adoption/NN ./.
+-1#7#0#exact -1#2#2#exact -1#0#4#exact -1#1#5#exact -1#9#6#exact 
+-1#6#-1#P-ins -1#5#3#V -1#-1#1#R-del -1#8#-1#R-ins -1#3#-1#R-ins -1#4#-1#R-ins 
+
+"/CD normal/JJ displacement/NN and/CC deterrence/NN does/VBZ nothing/NN ,/, "/NN said/VBD town/NN and/CC country/NN planner/NN werner/NN klöver/NN from/IN leer/NN ./.
+"/IN the/DT normal/JJ displacement/NN ,/, the/DT vergrämen/NNS ,/, nothing/NN ,/, "/NN said/VBD the/DT city/NN and/CC landscape/NN werner/NN klöver/NN from/IN leer/NN ./.
+-1#0#0#exact -1#2#1#exact -1#3#2#exact -1#14#3#exact -1#8#6#exact -1#9#7#exact -1#10#8#exact -1#11#9#exact -1#12,13#10#para -1#16#14#exact -1#17#15#exact -1#18#16#exact -1#19#17#exact -1#20#18#exact 
+-1#1#-1#A-ex-the -1#6#-1#R-ins -1#5#-1#A-ex-the -1#4#-1#Punc -1#7#-1#Punc -1#-1#4#R-del -1#-1#5#R-del -1#12#-1#A-ex-the -1#13#10#R-sub -1#-1#3#R-del -1#15#-1#R-ins  -1#-1#11#R-del -1#-1#12#R-del -1#-1#13#R-del 
+
+the/DT fire/NN was/VBD probably/RB caused/VBN by/IN a/DT technical/JJ failure/NN in/IN the/DT electricity/NN system/NN according/VBG to/TO the/DT investigations/NNS so/RB far/RB ./.
+according/VBG to/TO previous/JJ findings/NNS ,/, there/EX was/VBD probably/RB due/JJ to/TO a/DT technical/JJ defect/NN to/TO a/DT fire/NN in/IN the/DT electricity/NN area/NN ./.
+-1#14,15#0,1#para -1#6#2#exact -1#7#3#exact -1#8,9#4,5#para -1#10#6#exact -1#11#7#exact -1#12#8#para -1#16#9#exact -1#17#10#exact -1#18#11#exact -1#0#13#exact -1#1#14#exact -1#20#19#exact 
+-1#14#0#A-conf -1#2#-1#R-ins -1#3#16#R-sub -1#-1#15#A-mis-the -1#4#-1#Punc -1#13#-1#P-ins  -1#19#12#R-sub -1#5#-1#R-ins -1#-1#17#R-del -1#-1#18#R-del -1#12#8#R-sub -1#8,9#4,5#R-sub 
+
+the/DT population/NN judges/NNS as/RB positive/JJ obama/NN 's/POS the/DT balance/NN of/IN national/JJ security/NN ,/, which/WDT eliminated/VBD bin/NN laden/JJ ./.
+the/DT population/NN estimates/VBZ the/DT positive/JJ assessment/NN of/IN the/DT national/JJ security/NN under/IN obama/NN ,/, bin/NN laden/JJ has/VBZ switched/VBN off/RP ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#syn -1#4#4#exact -1#11#5#exact -1#3#7#exact -1#6#9#exact -1#8#10#exact -1#9#11#exact -1#12#12#exact -1#13#15#exact -1#14#16#exact -1#18#17#exact 
+-1#3#-1#A-ex-the -1#7#-1#A-ex-the -1#-1#3#R-del -1#10#-1#P-ins -1#2#2#R-sub -1#-1#6#R-del -1#-1#8#R-del -1#-1#13#R-del -1#-1#14#R-del -1#5#-1#R-ins -1#15#-1#R-ins -1#16#-1#R-ins -1#17#-1#R-ins 
+
+margaret/NN somerville/NN ,/, who/WP is/VBZ herself/PRP a/DT member/NN of/IN the/DT royal/JJ society/NN of/IN canada/NN ,/, contests/NNS ,/, in/IN particular/JJ ,/, the/DT data/NNS of/IN the/DT report/NN concerning/VBG abuses/NNS in/IN certain/JJ countries/NNS where/WRB euthanasia/NN and/CC assisted/VBD suicide/NN have/VBP been/VBN legalised/VBN as/IN in/IN the/DT netherlands/NNS and/CC in/IN oregon/NN ./.
+margaret/NN somerville/NN ,/, who/WP is/VBZ a/DT member/NN of/IN the/DT royal/JJ society/NN of/IN canada/NN ,/, in/IN particular/JJ ,/, the/DT report/NN claims/VBZ on/IN the/DT freedom/NN of/IN abuses/NNS in/IN certain/JJ countries/NNS in/IN which/WDT euthanasia/NN and/CC assisted/VBD suicide/NN ,/, such/JJ as/IN in/IN the/DT netherlands/NNS and/CC in/IN oregon/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#6#exact -1#6#7#exact -1#7#8#exact -1#8#9#exact -1#9#10#exact -1#10#11#exact -1#11#12#exact -1#12#13#exact -1#13#14#exact -1#34#16#exact -1#14#17#exact -1#15#18#exact -1#16#19#exact -1#17#20#exact -1#23#22#exact -1#21#23#exact -1#18#24#exact -1#24#26#exact -1#25#27#exact -1#26#28#exact -1#27#29#exact -1#28,29#30#para -1#30#31#exact -1#31#32#exact -1#32#33#exact -1#33#34#exact -1#36#38#exact -1#37#39#exact -1#38#40#exact -1#39#41#exact -1#40#42#exact -1#41#43#exact -1#42#44#exact -1#43#45#exact 
+ -1#22#-1#R-ins -1#-1#21#R-del -1#35#-1#R-ins -1#-1#5#R-del -1#-1#25#R-del -1#-1#35#R-del -1#-1#36#R-del -1#-1#37#R-del -1#-1#15#R-del -1#19#-1#R-ins -1#20#-1#P-ins -1#28,29#30#R-sub 
+
+others/NNS would/MD wonder/VB whether/IN there/EX was/VBD an/DT "/NN angry/JJ ,/, violent/JJ veteran/NN beneath/IN the/DT surface/NN ,/, "/CD said/VBD cancian/NN ,/, who/WP fought/VBD in/IN iraq/NN and/CC returned/VBD to/TO a/DT senior/JJ government/NN job/NN in/IN washington/NN ./.
+others/NNS would/MD wonder/VB whether/IN a/DT "/NN angry/JJ ,/, violent/JJ veteran/NN beneath/IN the/DT surface/NN ,/, "/CD said/VBD cancian/NN ,/, who/WP had/VBD fought/VBN in/IN iraq/NN and/CC a/DT senior/JJ government/NN posts/NNS in/IN washington/NN after/IN his/PRP$ return/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#19#4,5#para -1#5#7#exact -1#6#8#exact -1#7#9#exact -1#8#10#exact -1#9#11#exact -1#10#12#exact -1#11#13#exact -1#12#14#exact -1#13#15#exact -1#14#16#exact -1#15#17#exact -1#16#18#exact -1#17#19#exact -1#18#20#exact -1#20#21#exact -1#21#22#exact -1#22#23#exact -1#23#24#exact -1#24#27#exact -1#25#28#exact -1#26#29#exact -1#28#31#exact -1#29#32#exact -1#33#33#exact 
+-1#19#-1#V -1#4#6#A-other -1#-1#4#R-del -1#-1#5#R-del -1#-1#25#R-del -1#-1#26#R-del -1#-1#30#R-del -1#27#-1#R-ins -1#30#-1#P-ins -1#31#-1#R-ins -1#32#-1#R-ins 
+
+you/PRP get/VBP in/IN the/DT car/NN on/IN the/DT west/NN coast/NN ,/, in/IN san/NN francisco/NN ,/, and/CC your/PRP$ task/NN is/VBZ to/TO be/VB the/DT first/JJ one/CD to/TO reach/VB new/JJ york/NN ./.
+in/IN san/NN francisco/NN ,/, on/IN the/DT west/NN coast/NN ,/, to/TO the/DT steering/VBG wheel/NN -/: with/IN the/DT task/NN ,/, as/IN the/DT first/JJ in/IN new/JJ york/NN ./.
+-1#21#2#exact -1#10#3#exact -1#4#5#exact -1#5#6#exact -1#6#7#exact -1#7#8#exact -1#8#9#exact -1#0#10#exact -1#1#11#exact -1#2#12#exact -1#3#13#exact -1#16#16#exact -1#9#18#exact -1#19#20#exact -1#20#21#exact -1#22#25#exact -1#23#26#exact -1#24#27#exact 
+ -1#11,12#4#R-sub -1#-1#17#R-del -1#17#-1#Punc -1#-1#19#R-del -1#-1#0#R-del -1#-1#1#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#22#R-del -1#-1#23#R-del -1#-1#24#R-del -1#14#-1#P-ins -1#15#-1#A-ex-the -1#13#-1#Punc -1#18#-1#P-ins 
+
+a/DT first/JJ estimate/NN in/IN respect/NN of/IN the/DT whole/JJ eurozone/NN is/VBZ expected/VBN at/IN 11/CD a.m/RB ,/, the/DT european/JJ commission/NN having/VBG warned/VBN against/IN the/DT risk/NN of/IN a/DT new/JJ recession/NN ./.
+an/DT initial/JJ projection/NN of/IN the/DT euro/NN area/NN as/IN a/DT whole/NN is/VBZ expected/VBN at/IN 11/CD p./NN m/NN ./. ,/, with/IN the/DT eu/NN commission/NN warns/VBZ against/IN the/DT risk/NN of/IN a/DT renewed/VBN recession/NN ./.
+-1#8#0#exact -1#3#5#exact -1#4#6#exact -1#9#7#exact -1#5,6#8#para -1#10#9#exact -1#11#10#exact -1#12#11#exact -1#13#12#exact -1#17#14#exact -1#19#15#exact -1#20#16#para -1#21#17#exact -1#22#19#stem -1#23#20#exact -1#24#21#exact -1#25#22#exact -1#26#23#exact -1#27#24#exact -1#28#25#para -1#29#26#exact -1#30#27#exact 
+-1#1#1#R-sub -1#2#2#R-sub -1#0#0#A-other -1#5,6#8#R-sub -1#8#6#A-conf  -1#16#-1#Punc -1#28#25#W -1#-1#3#P-del -1#-1#4#R-del -1#22#19#V -1#-1#18#R-del -1#7#-1#P-ins -1#18#-1#P-ins 
+
+phil/NN t./NN pulaski/NNS ,/, the/DT department/NN 's/POS chief/NN of/IN detectives/NNS ,/, was/VBD also/RB there/RB ./.
+phil/NN t./NN pulaski/NNS ,/, divisional/JJ chief/NN of/IN detectives/NNS ,/, was/VBD also/RB there/RB ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#5#7#exact -1#6#8#exact -1#7#9#exact -1#8#10#exact -1#9#11#exact -1#10#12#exact -1#11#13#exact -1#12#14#exact 
+-1#4#-1#R-ins -1#-1#4#A-mis-the -1#-1#5#R-del -1#-1#6#R-del 
+
+its/PRP$ distributes/VBZ its/PRP$ notebooks/NNS to/TO fnac/VB libraries/NNS ,/, small/JJ shops/NNS in/IN town/NN centres/NNS and/CC has/VBZ succeeded/VBN in/IN becoming/VBG well/RB known/VBN ./.
+the/DT company/NN sells/VBZ its/PRP$ notebooks/NNS in/IN bookshops/NNS ,/, internet/NN portals/NNS such/JJ as/IN fnac/NN ,/, in/IN small/JJ boutiques/NNS of/IN town/NN centres/NNS and/CC understands/VBZ its/PRP$ identity/NN ./.
+-1#22#0#exact -1#3#2#exact -1#4#3#exact -1#12#5#exact -1#7#7#exact -1#15#8#exact -1#5#10#exact -1#18#11#exact -1#19#12#exact -1#20#13#exact -1#14#16#exact -1#24#20#exact 
+ -1#6#-1#R-ins -1#5#4#P-repl -1#-1#6#R-del -1#17#10#P-repl  -1#-1#1#R-del -1#1#-1#R-ins -1#2#-1#R-ins -1#0#-1#A-ex-the -1#-1#9#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#17#R-del -1#-1#18#R-del -1#-1#19#R-del -1#8#-1#R-ins -1#9#-1#R-ins -1#10#-1#R-ins -1#11#-1#P-ins -1#13#-1#Punc -1#16#-1#R-ins -1#23#-1#R-ins -1#21#-1#R-ins 
+
+"/RB from/IN now/RB on/IN there/EX will/MD be/VB an/DT access/NN control/NN ,/, "/NN said/VBD the/DT manager/NN ./.
+"/RB from/IN now/RB on/IN will/MD be/VB controlled/JJ access/NN ,/, "/CD confirmed/VBD the/DT house/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#5#exact -1#5#6#exact -1#7#8#exact -1#8#10#exact -1#9#11#exact -1#11#13#exact -1#13#15#exact 
+-1#-1#4#R-del -1#6#9#W -1#-1#7#A-mis-a -1#-1#12#R-del -1#-1#14#R-del -1#10#-1#R-ins -1#12#-1#R-ins 
+
+sickness/NN certificate/NN related/VBN fraud/NN is/VBZ very/RB low/JJ ,/, compared/VBN with/IN "/CD black/JJ "/CD labour/NN ./.
+the/DT fraud/NN in/IN health/NN coverage/NN represents/VBZ a/DT very/RB small/JJ proportion/NN in/IN terms/NNS of/IN undeclared/JJ work/NN ./.
+-1#1#3#exact -1#7#5#exact -1#8#6#syn -1#14#13#para -1#15#14#exact 
+-1#8#6,14#R-sub -1#14#13#R-sub -1#0#-1#A-ex-the -1#-1#0#R-del -1#-1#1#R-del -1#-1#2#R-del -1#-1#4#R-del -1#-1#8#R-del -1#-1#11#R-del -1#-1#7#Punc -1#-1#10#Punc -1#-1#12#Punc -1#-1#9#P-del -1#2#-1#P-ins -1#3#-1#R-ins -1#4#-1#R-ins -1#5#-1#R-ins -1#6#-1#A-ex-a -1#9#-1#R-ins -1#11#-1#R-ins -1#13#-1#R-ins -1#10#-1#P-ins -1#12#-1#P-ins 
+
+the/DT findings/NNS were/VBD made/VBN in/IN a/DT survey/NN conducted/VBN by/IN the/DT forsa/NN institute/NN for/IN social/JJ research/NN and/CC statistical/JJ analysis/NN on/IN behalf/NN of/IN the/DT consumer/NN organisation/NN foodwatch/NN ./.
+this/DT is/VBZ the/DT result/NN of/IN a/DT forsa/NN survey/NN commissioned/VBN by/IN the/DT consumer/NN organisation/NN foodwatch/NN ./.
+-1#2#0#exact -1#5#5#exact -1#7#6#exact -1#9#8#exact -1#10#9#exact -1#6#10#exact -1#4#20#exact -1#11#22#exact -1#12#23#exact -1#13#24#exact -1#14#25#exact 
+-1#3#-1#R-ins  -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#R-del -1#-1#4#P-del -1#-1#7#R-del -1#-1#11#R-del -1#-1#13#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#16#R-del -1#-1#17#R-del -1#-1#19#R-del -1#-1#12#P-del -1#-1#18#P-del -1#5#9#A-conf -1#0#-1#A-other -1#1#-1#R-ins -1#8#-1#R-ins 
+
+following/VBG an/DT attack/NN on/IN helder/NN postiga/NN in/IN the/DT bosnian/JJ penalty/NN area/NN in/IN the/DT 36th/JJ minute/NN ,/, stark/JJ decided/VBD the/DT portuguese/JJ player/NN had/VBD simulated/JJ and/CC gave/VBD him/PRP a/DT yellow/JJ card/NN ./.
+after/IN an/DT attack/NN against/IN helder/NN postiga/NN in/IN the/DT bosnian/JJ penalty/NN area/NN ,/, stark/JJ to/TO swallow/VB and/CC showed/VBD the/DT portuguese/JJ yellow/JJ card/NN (/CD 36th/JJ )/NN ./.
+-1#1#1#exact -1#2,3#2,3#para -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#10#10#exact -1#22#13#exact -1#11#15#exact -1#12#16#exact -1#17#18#exact -1#18#19#exact -1#15#23#exact -1#19#27#exact -1#20#28#exact -1#24#29#exact 
+-1#3#3#P-repl -1#-1#14#R-del -1#-1#25#R-del -1#-1#26#A-mis-a -1#-1#0#R-del -1#-1#11#P-del -1#-1#12#A-mis-the -1#-1#17#R-del -1#-1#20#R-del -1#-1#21#R-del -1#-1#22#R-del -1#-1#24#R-del -1#0#-1#P-ins -1#13#-1#R-ins -1#14#-1#R-ins -1#16#-1#R-ins -1#21#-1#Punc -1#23#-1#Punc 
+
+i/FW think/VBP that/IN when/WRB you/PRP grow/VBP up/RB and/CC there/RB was/VBD some/DT trauma/NN in/IN your/PRP$ life/NN and/CC you/PRP lost/VBD a/DT family/NN member/NN or/CC friend/NN ,/, these/DT things/NNS start/VBP to/TO influence/VB your/PRP$ art/NN and/CC your/PRP$ music/NN and/CC these/DT two/CD songs/NNS certainly/RB represent/VBP that/IN for/IN me/PRP ./.
+i/FW believe/VBP that/IN if/IN you/PRP are/VBP older/JJR and/CC something/NN drastic/JJ happened/VBN in/IN your/PRP$ life/NN -/: for/IN example/NN ,/, if/IN a/DT family/NN member/NN or/CC a/DT friend/NN loses/VBZ -/: influenced/VBN your/PRP$ artistic/JJ creation/NN and/CC your/PRP$ music/NN ,/, and/CC these/DT two/CD songs/NNS embody/VBP the/DT clear/JJ for/IN me/PRP ./.
+-1#0#0#exact -1#1,2#1,2#para -1#4#4#exact -1#7#7#exact -1#5#9#syn -1#11#12#exact -1#12#13#exact -1#13#14#exact -1#31#15#exact -1#25#17#syn -1#19#18#exact -1#20#19#exact -1#21#20#exact -1#22#21#exact -1#24#22#exact -1#17#23#exact -1#36#24#exact -1#27#28#stem -1#28#29#exact -1#29#30#para -1#35#31#exact -1#32#32#exact -1#33#33#exact -1#37#36#exact -1#38#37#exact -1#42#41#exact -1#43#42#exact -1#44#43#exact 
+-1#1#1#R-sub -1#14#-1#Punc -1#23#-1#A-ex-a -1#26#-1#Punc -1#27#28#V -1#29#30#W -1#30#-1#R-ins -1#34#-1#Punc  -1#-1#3#R-del -1#-1#5#R-del -1#-1#6#R-del -1#-1#8#R-del -1#-1#10#A-other -1#-1#11#R-del -1#-1#16#R-del -1#-1#25#R-del -1#-1#26#R-del -1#-1#27#R-del -1#-1#34#R-del -1#-1#35#A-other -1#-1#38#R-del -1#-1#39#R-del -1#-1#40#P-del -1#25#17#V -1#3#-1#P-ins -1#6#-1#R-ins -1#8#-1#R-ins -1#9#-1#R-ins -1#10#-1#R-ins -1#16#-1#R-ins -1#15#-1#P-ins -1#18#-1#P-ins -1#39#-1#R-ins -1#41#-1#R-ins -1#40#-1#A-ex-the 
+
+obviously/RB ,/, your/PRP$ rival/NN has/VBZ to/TO get/VB in/IN front/NN of/IN you/PRP no/DT matter/NN what/WDT ./.
+the/DT opponent/NN must/MD seem/VB hell/NN bent/NN on/IN overtaking/VBG ./.
+-1#1#3#para -1#2#4,5#para -1#8#14#exact 
+-1#0#-1#A-ex-the  -1#-1#0#R-del -1#-1#2#R-del -1#-1#6#R-del -1#-1#8#R-del -1#-1#10#R-del -1#-1#12#R-del -1#-1#13#R-del -1#3#-1#R-ins -1#4#-1#R-ins -1#5#-1#R-ins -1#7#-1#R-ins -1#-1#7#P-del -1#-1#9#P-del -1#-1#11#A-other -1#6#-1#P-ins -1#1#3#R-sub -1#2#4,5#R-sub -1#-1#1#Punc 
+
+the/DT referee/NN wolfgang/NN stark/JJ from/IN ergolding/VBG then/RB garnered/VBD some/DT attention/NN ./.
+then/RB ,/, referee/NN wolfgang/NN stark/JJ from/IN ergolding/VBG ./.
+-1#2#1#exact -1#3#2#exact -1#4#3#exact -1#5#4#exact -1#6#5#exact -1#0#6#exact -1#7#10#exact 
+-1#-1#0#A-mis-the -1#1#-1#Punc -1#-1#7#R-del -1#-1#9#R-del -1#-1#8#A-other 
+
+also/RB ,/, pay/VB attention/NN to/TO your/PRP$ subject/NN 's/POS language/NN ./.
+you/PRP also/RB pay/VBP attention/NN to/TO the/DT language/NN of/IN your/PRP$ participants/NNS ./.
+-1#1#0#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#8#5#exact -1#6#8#exact -1#10#9#exact 
+-1#0#-1#R-ins -1#-1#1#Punc -1#5#-1#A-ex-the -1#-1#6#R-del -1#9#-1#R-ins -1#-1#7#R-del -1#7#-1#P-ins 
+
+mr./NNP kelly/NNP said/VBD many/JJ people/NNS ,/, almost/RB like/IN commuters/NNS ,/, had/VBD been/VBN coming/VBG and/CC going/VBG from/IN the/DT park/NN during/IN the/DT day/NN ,/, making/VBG 1/CD am/VBP a/DT good/JJ time/NN to/TO move/VB in/IN ./.
+mr./NNP kelly/NNP said/VBD that/IN in/IN the/DT course/NN of/IN the/DT day/NN ,/, many/JJ people/NNS in/IN the/DT park/NN and/CC ,/, almost/RB like/IN commuters/NNS ,/, so/RB that/IN 1/CD o/NN 'clock/NN in/IN the/DT night/NN is/VBZ a/DT good/JJ time/NN to/TO go/VB ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#11#3#exact -1#12#4#exact -1#17#5#exact -1#18#6#exact -1#19#7#exact -1#20#8#exact -1#21#9#exact -1#16#13#exact -1#14#16#exact -1#15#17#exact -1#8#19#exact -1#9#20#exact -1#10#21#exact -1#24#23#exact -1#30#24#syn -1#31#25#exact -1#32#26#exact -1#33#27#exact -1#34#28#exact -1#35#29#syn -1#4#30#exact -1#36#31#exact 
+-1#35#29#R-sub -1#13#15#P-repl -1#-1#10#R-del -1#-1#11#R-del -1#-1#12#R-del -1#-1#14#R-del -1#-1#18#P-del -1#-1#22#R-del -1#-1#24#R-del -1#3#-1#P-ins -1#5#-1#A-ex-the -1#6#-1#R-ins -1#7#-1#P-ins -1#22#-1#R-ins -1#23#-1#P-ins -1#25#-1#R-ins -1#26#-1#R-ins -1#27#-1#P-ins -1#28#-1#A-ex-the -1#29#-1#R-ins -1#30#-1#R-ins 
+
+the/DT tram/NN was/VBD forced/VBN to/TO break/VB abruptly/RB on/IN herzbergallee/NN when/WRB a/DT vehicle/NN stopped/VBD suddenly/RB in/IN front/NN of/IN it/PRP ./.
+the/DT tram/NN was/VBD at/IN the/DT heart/NN of/IN mountain/NN allee/NN must/MD slow/VB down/RP abruptly/RB when/WRB a/DT vehicle/NN suddenly/RB lasted/VBD before/IN her/PRP ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#9#3,4#para -1#12#6#exact -1#13#9#exact -1#14#10#exact -1#15#11#exact -1#16#13#exact -1#18#14,15#para -1#6#16#exact -1#20#18#exact 
+-1#4#-1#A-ex-the -1#3#7#P-repl -1#-1#5#R-del -1#-1#8#R-del -1#-1#12#R-del -1#-1#17#R-del -1#5#-1#R-ins -1#7#-1#R-ins -1#8#-1#R-ins -1#10#-1#R-ins -1#11#-1#R-ins -1#19#-1#R-ins -1#17#-1#R-ins -1#18#14,15,16#R-ins -1#9#3,4#R-ins 
+
+that/DT was/VBD just/RB the/DT first/JJ blow/NN ./.
+but/CC that/DT was/VBD only/RB the/DT first/JJ blow/NN ./.
+-1#1#0#exact -1#2,3#1,2#para -1#4#3#exact -1#5#4#exact -1#6#5#exact -1#7#6#exact 
+-1#0#-1#R-ins -1#3#2#R-sub 
+
+seven/CD year/NN old/JJ hit/NN and/CC injured/VBN by/IN a/DT car/NN in/IN wedding/NN
+seven/CD years/NNS in/IN the/DT wedding/NN and/CC injured/VBN
+-1#0#0#exact -1#1#1#stem -1#5#4#exact -1#6#5#exact -1#2#9#exact -1#4#10#exact 
+-1#1#1#N -1#3#-1#A-ex-the -1#-1#2#R-del -1#-1#3#R-del -1#-1#8#R-del -1#-1#6#P-del -1#-1#7#A-mis-a 
+
+he/PRP approached/VBD the/DT rewriting/VBG of/IN the/DT key/JJ document/NN of/IN the/DT civil/JJ association/NN as/IN a/DT decoy/NN for/IN the/DT delegates/NNS ./.
+it/PRP is/VBZ the/DT revision/NN of/IN the/DT most/RBS important/JJ document/NN of/IN the/DT citizens/NNS "/VBP association/NN he/PRP used/VBD as/IN bait/NN for/IN the/DT delegates/NNS ./.
+-1#14#0#exact -1#2#2#exact -1#3#3#syn -1#4#4#exact -1#5#5#exact -1#6,7#6#para -1#8#7#exact -1#9#8#exact -1#10#9#exact -1#13#11#exact -1#16#12#exact -1#17#14#syn -1#18#15#exact -1#19#16#exact -1#20#17#exact -1#21#18#exact 
+-1#12#-1#Punc -1#-1#13#A-mis-a -1#17#14#R-sub -1#-1#1#R-del -1#3#3#R-sub -1#7#6#R-sub -1#6#-1#R-ins -1#-1#10#R-del -1#0#-1#R-ins -1#1#-1#R-ins -1#11#-1#R-ins -1#15#-1#R-ins 
+
+other/JJ lawmakers/NNS have/VBP been/VBN unsuccessful/JJ so/RB far/RB in/IN bringing/VBG their/PRP$ amendments/NNS to/TO the/DT floor/NN ,/, but/CC not/RB for/IN lack/NN of/IN trying/VBG ./.
+other/JJ legislators/NNS have/VBP so/RB far/RB tried/VBN unsuccessfully/RB to/TO bring/VB their/PRP$ amendments/NNS to/TO the/DT vote/NN ,/, although/IN they/PRP tried/VBD often/RB enough/JJ ./.
+-1#0#0#exact -1#1#1#para -1#2#2#exact -1#3#5#exact -1#4#6#exact -1#7,8#7,8#para -1#9#9#exact -1#10#10#exact -1#11#11#exact -1#12#12#exact -1#14#14#exact -1#16,17#20#para -1#20#21#exact 
+-1#6#4#W -1#17#20#V -1#-1#3#R-del -1#1#1#R-sub -1#5#-1#R-ins -1#8#8#V -1#-1#7#P-del -1#7#-1#R-ins -1#-1#13#R-del -1#-1#15#R-del -1#-1#16#R-del -1#-1#18#R-del -1#-1#17#P-del -1#-1#19#P-del -1#13#-1#R-ins -1#15#-1#P-ins -1#16#-1#R-ins -1#18#-1#R-ins -1#19#-1#R-ins 
+
+recently/RB ,/, he/PRP called/VBD for/IN opposition/NN to/TO the/DT chinese/JJ military/JJ threat/NN ,/, because/IN peking/NN is/VBZ trying/VBG to/TO develop/VB a/DT nuclear/JJ capacity/NN -/: apparently/RB unaware/JJ of/IN the/DT fact/NN that/IN china/NN has/VBZ possessed/VBN it/PRP since/IN 1964/CD !/.
+recently/RB ,/, he/PRP called/VBD on/IN the/DT chinese/JJ military/JJ threat/NN against/IN ,/, because/IN beijing/NN is/VBZ "/CD trying/VBG to/TO develop/VB a/DT nuclear/JJ power/NN "/SYM -/: and/CC seemed/VBD to/TO be/VB the/DT fact/NN that/IN china/NN is/VBZ already/RB been/VBN in/IN place/NN since/IN 1964/CD in/IN possession/NN of/IN military/JJ nuclear/JJ weapons/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#25#6#exact -1#5#7#exact -1#6#8#exact -1#7#9#exact -1#8#10#exact -1#10#11#exact -1#11#12#exact -1#12#13#syn -1#13#14#exact -1#15#15#exact -1#16#16#exact -1#17#17#exact -1#18#18#exact -1#19#19#exact -1#22#21#exact -1#40#24#exact -1#27#25#exact -1#28#26#exact -1#29#27#exact -1#30#28#exact -1#32,33#29#para -1#36#32#exact -1#37#33#exact 
+-1#9#-1#R-ins -1#14#-1#Punc -1#21#-1#Punc -1#26#-1#R-ins -1#39#30#W -1#-1#4#P-del -1#-1#5#R-del -1#12#13#R-sub -1#-1#20#R-del -1#-1#22#R-del -1#-1#23#R-del -1#-1#31#R-del -1#-1#34#Punc -1#4#-1#P-ins -1#20#-1#R-ins -1#23#-1#R-ins -1#24#-1#R-ins -1#31#-1#R-ins -1#35#-1#R-ins -1#34#-1#P-ins -1#38#-1#P-ins -1#41#-1#R-ins -1#42#-1#R-ins -1#43#-1#R-ins -1#-1#29#R-del -1#32#-1#R-ins -1#33#-1#R-ins 
+
+this/DT time/NN melina/NN ramirez/NN serna/NN had/VBD to/TO be/VB content/JJ with/IN being/VBG on/IN the/DT winning/VBG podium/NN ,/, wearing/VBG the/DT silver/NN crown/NN and/CC the/DT band/NN that/WDT accredited/VBD her/PRP as/IN the/DT new/JJ princess/NN of/IN colombia/NN ./.
+this/DT time/NN had/VBD to/TO melina/VB ramírez/NN serna/NN content/NN to/TO stand/VB on/IN the/DT podium/NN ,/, a/DT silver/NN crown/NN and/CC the/DT band/NN ,/, which/WDT they/PRP regard/VBP as/IN the/DT new/JJ miss/VBP colombia/NNS to/TO flaunt/VB ./.
+-1#0#0#exact -1#1#1#exact -1#4#2#exact -1#6#4#exact -1#2#5#exact -1#3#6#exact -1#7#8#exact -1#10#11#exact -1#11#12#exact -1#12#14#exact -1#13#15#exact -1#25#17#exact -1#15#18#exact -1#16#19#exact -1#17#20#exact -1#18#21#exact -1#19#22#exact -1#24#26#exact -1#26#28#exact -1#28#31#exact -1#31#32#exact 
+ -1#-1#7#R-del -1#-1#13#R-del -1#14#17#A-conf -1#-1#16#R-del -1#20#-1#Punc -1#22#-1#R-ins -1#-1#25#R-del -1#5#3#R-sub -1#-1#9#P-del -1#-1#10#R-del -1#-1#23#R-del -1#-1#24#R-del -1#-1#27#A-mis-the -1#-1#29#R-del -1#-1#30#P-del -1#8#-1#R-ins -1#9#-1#R-ins -1#21#-1#R-ins -1#23#-1#R-ins -1#27#-1#R-ins -1#29#-1#R-ins -1#30#-1#R-ins 
+
+to/TO the/DT questioner/NN she/PRP answered/VBD
+the/DT young/JJ woman/NN from/IN valle/FW del/FW cauca/FW replied/VBD to/TO the/DT questioner/NN :/:
+-1#8#0#exact -1#9#1#exact -1#10#2#exact 
+-1#-1#3#R-del -1#-1#4#R-del -1#0#-1#A-ex-the -1#1#-1#R-ins -1#2#-1#R-ins -1#3#-1#P-ins -1#4#-1#R-ins -1#5#-1#R-ins -1#6#-1#R-ins -1#7#-1#R-ins -1#11#-1#Punc 
+
+meanwhile/RB ,/, in/IN 1964/CD ,/, ibm/NN developed/VBD the/DT first/JJ computer/NN family/NN -/: the/DT ibm/NN line/NN system/NN //CD 360/CD ./.
+meanwhile/RB ,/, ibm/NN in/IN 1964/CD ,/, the/DT first/JJ computer/NN family/NN with/IN the/DT same/JJ computer/NN architecture/NN -/: the/DT series/NN ibm/NN system/NN //CD 360/CD ./.
+-1#0#0#exact -1#1#1#exact -1#3#2#exact -1#4#3#exact -1#5#4#exact -1#2#5#exact -1#6#7#exact -1#7#8#exact -1#8#9#exact -1#9#10#exact -1#15#11#exact -1#16#12#exact -1#18#13#exact -1#19#15#exact -1#20#16#exact -1#21#17#exact -1#22#18#exact 
+ -1#-1#6#R-del -1#-1#14#R-del -1#17#-1#R-ins -1#14#-1#R-ins -1#13#-1#R-ins -1#12#-1#R-ins -1#11#-1#A-ex-the -1#10#-1#P-ins 
+
+we/PRP must/MD construct/VB a/DT europe/NN integrated/VBN on/IN economic/JJ level/NN ./.
+we/PRP need/VBP to/TO a/DT better/RBR economically/RB integrated/VBN europe/NN ./.
+-1#0#0#exact -1#1,2#1#para -1#3#3#exact -1#7#4#exact -1#6#5#exact -1#5#7,8#para -1#8#9#exact 
+-1#-1#2#R-del -1#4#-1#R-ins -1#5#7#W  -1#-1#6#P-del -1#1,2#1#R-sub -1#-1#8#R-del 
+
+sometimes/RB the/DT restarts/NNS are/VBP not/RB enough/RB and/CC you/PRP need/VBP to/TO learn/VB a/DT given/VBN section/NN of/IN the/DT race/NN by/IN heart/NN ./.
+sometimes/RB ,/, however/RB ,/, does/VBZ not/RB help/VB the/DT restart/VB ,/, there/EX is/VBZ nothing/NN else/JJ helps/VBZ to/TO learn/VB the/DT critical/JJ section/NN from/IN the/DT head/NN ./.
+-1#0#0#exact -1#7#1#exact -1#8#2#stem -1#5#4#exact -1#15#9#exact -1#16#10#exact -1#19#13#exact -1#17#15#exact -1#23#19#exact 
+ -1#2#-1#R-ins -1#8#2#W -1#17#11#A-conf -1#22#18#R-sub -1#21#-1#A-ex-the -1#-1#3#R-del -1#4#-1#R-ins -1#-1#5#R-del -1#6#-1#R-ins -1#9#-1#Punc -1#20#17#P-repl -1#-1#16#R-del -1#-1#14#P-del -1#-1#6#R-del -1#-1#7#R-del -1#-1#8#R-del -1#-1#12#R-del -1#10#-1#R-ins -1#11#-1#R-ins -1#12#-1#R-ins -1#13#-1#R-ins -1#14#-1#R-ins -1#18#-1#R-ins -1#1#-1#Punc -1#3#-1#Punc 
+
+that/DT will/MD be/VB tough/JJ for/IN axel/NN weber/NN ./.
+for/IN axel/NNP weber/NNP will/MD be/VB hard/JJ ./.
+-1#3#1#exact -1#4#2#exact -1#5#3#syn -1#0#4#exact -1#1#5#exact -1#2#6#exact -1#6#7#exact 
+-1#-1#0#A-other -1#5#3#R-sub 
+
+he/PRP also/RB claimed/VBD that/IN europe/NN is/VBZ not/RB likely/JJ to/TO shake/VB off/RP a/DT recession/NN quickly/RB and/CC that/IN there/EX are/VBP further/JJ signs/NNS of/IN weakness/NN in/IN the/DT banks/NNS ./.
+europe/NN will/MD not/RB be/VB able/JJ to/TO break/VB out/IN of/IN a/DT recession/NN ,/, and/CC there/EX are/VBP further/JJ signs/NNS of/IN weakness/NN in/IN the/DT banks/NNS ./.
+-1#0,1#4,5#para -1#2#6#exact -1#5#8#exact -1#9#11#exact -1#10#12#exact -1#12#14#exact -1#13#16#exact -1#14#17#exact -1#15#18#exact -1#16#19#exact -1#17#20#exact -1#18#21#exact -1#19#22#exact -1#20#23#exact -1#21#24#exact -1#22#25#exact 
+-1#11#-1#Punc -1#-1#15#R-del -1#8#-1#P-ins -1#-1#7#R-del -1#-1#13#R-del -1#3#5#V -1#-1#0#R-del -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#P-del -1#-1#9#R-del -1#-1#10#R-del -1#4#-1#R-ins -1#6#-1#R-ins -1#7#-1#P-ins 
+
+inscription/NN of/IN a/DT budgetary/JJ "/NN golden/JJ rule/NN "/CD in/IN the/DT constitution/NN
+the/DT of/IN a/DT "/NN golden/JJ budgetary/JJ rule/NN "/CD in/IN the/DT constitution/NN ./.
+-1#1#1#exact -1#2#2#exact -1#5#3#exact -1#3#4#exact -1#4#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#10#10#exact 
+ -1#11#-1#Punc -1#0#-1#A-ex-the -1#-1#0#R-del 
+
+despite/IN breivik/NN 's/POS bizarre/JJ notion/NN of/IN being/VBG part/NN of/IN a/DT larger/JJR "/NN resistance/NN "/CD movement/NN ,/, the/DT judge/NN determined/VBD that/IN he/PRP is/VBZ not/RB insane/JJ ,/, and/CC said/VBD that/IN there/EX is/VBZ no/DT evidence/NN he/PRP acted/VBD with/IN accomplices/NNS ./.
+despite/IN breiviks/NNS bizarre/JJ reference/NN ,/, he/PRP would/MD be/VB part/NN of/IN a/DT larger/JJR "/NN resistance/NN "/CD movement/NN ,/, the/DT judge/NN came/VBD to/TO the/DT conclusion/NN that/IN he/PRP was/VBD not/RB mentally/RB ill/JJ and/CC said/VBD that/IN there/EX was/VBD no/DT evidence/NN that/IN he/PRP had/VBD accomplices/NNS ./.
+-1#0#0#exact -1#1#1#stem -1#2#3#exact -1#7#5,6#para -1#8#7#exact -1#9#8#exact -1#10#9#exact -1#11#10#exact -1#12#11#exact -1#13#12#exact -1#14#13#exact -1#15#14#exact -1#16#15#exact -1#17#16#exact -1#18#17#exact -1#36#19#exact -1#37#20#exact -1#23,24,25,26#21,22#para -1#4#24#exact -1#29#25#exact -1#30#26#exact -1#31,32,33,34#27,28,29,30#para -1#35#31#exact -1#5#32#exact -1#39#35#exact -1#40#36#exact 
+-1#1#1#N -1#27,28#23#R-sub -1#33#29#V -1#-1#34#P-del -1#7#6#V -1#25#21#V -1#-1#2#R-del -1#-1#4#R-del -1#-1#18#R-del -1#-1#33#R-del -1#3#-1#R-ins -1#6#-1#R-ins -1#19#-1#R-ins -1#20#-1#R-ins -1#22#-1#R-ins -1#21#-1#A-ex-the -1#38#-1#R-ins -1#-1#5#P-del -1#31#-1#P-ins -1#32#-1#R-ins -1#-1#28#R-del -1#24#-1#R-ins 
+
+the/DT suit/NN seeks/VBZ unspecified/JJ damages/NNS ,/, but/CC the/DT family/NN 's/POS lawyer/NN ,/, sam/NN davis/NNS ,/, said/VBD he/PRP took/VBD the/DT case/NN for/IN free/JJ and/CC that/IN the/DT family/NN plans/VBZ to/TO donate/VB any/DT money/NN it/PRP gets/VBZ to/TO a/DT children/NNS 's/POS cancer/NN charity/NN ./.
+the/DT complaint/NN is/VBZ not/RB going/VBG to/TO some/DT compensation/NN ,/, but/CC the/DT family/NN lawyer/NN ,/, sam/NN davis/NNS ,/, said/VBD that/IN he/PRP would/MD not/RB be/VB a/DT fee/NN ,/, and/CC the/DT family/NN plan/NN ,/, the/DT money/NN they/PRP get/VBP ,/, the/DT children/NNS 's/POS cancer/NN aid/NN donations/NNS ./.
+-1#0#0#exact -1#7#4#para -1#8#5#exact -1#9#6#exact -1#10#7#exact -1#11#8#exact -1#38#9#exact -1#12#10#exact -1#13#11#exact -1#14#12#exact -1#15#13#exact -1#16#14#exact -1#17#15#exact -1#19#16#exact -1#36#18#exact -1#26#22#exact -1#18#23#exact -1#27#24#exact -1#28#25#exact -1#29#26#stem -1#5#27#exact -1#41#28#stem -1#31,32#29,30#para -1#2#31,32#para -1#23#34#exact -1#37#35#exact -1#39#37#exact -1#42#39#exact 
+-1#1#-1#R-ins -1#-1#17#R-del -1#24#-1#R-ins -1#30#-1#Punc -1#41#28#W -1#31#29#A-mult -1#34#32#V -1#35#-1#Punc -1#36#34#A-conf -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#R-del -1#7#4#R-sub -1#-1#19#R-del -1#-1#21#R-del -1#-1#20#P-del -1#29#26#W -1#-1#33#R-del -1#-1#36#R-del -1#-1#38#R-del -1#3#-1#R-ins -1#4#-1#R-ins -1#6#-1#A-other -1#20#-1#R-ins -1#21#-1#R-ins -1#22#-1#R-ins -1#33#-1#R-ins -1#40#-1#R-ins -1#25#-1#Punc -1#-1#31#R-del -1#2#-1#R-ins 
+
+all/DT four/CD birds/NNS used/VBD the/DT wire/NN to/TO form/VB a/DT hook/NN and/CC used/VBD the/DT hook/NN to/TO fish/NN the/DT bucket/NN out/IN of/IN the/DT tube/NN by/IN its/PRP$ handle/VB ./.
+it/PRP shaped/VBD all/DT four/CD animals/NNS a/DT snag/NN ,/, with/IN whose/WP$ help/NN they/PRP will/MD be/VB the/DT eimer/NN angelten/NN at/IN the/DT top/NN of/IN the/DT ./.
+-1#2#0#exact -1#3#1#exact -1#14#4#exact -1#5#8#exact -1#18#12#exact -1#20#19#exact -1#21#20#exact -1#8,9#23#para -1#22#25#exact 
+-1#1#7#R-sub -1#6#9#R-sub -1#-1#3#R-del -1#0#-1#R-ins  -1#7#-1#Punc -1#15,16#-1#R-ins -1#21#-1#A-ex-the -1#12#-1#V -1#13#-1#R-ins -1#17#-1#P-ins -1#-1#21#R-del -1#-1#24#R-del -1#-1#18#P-del -1#-1#22#P-del -1#4#2#R-sub -1#-1#5#R-del -1#-1#6#R-del -1#-1#10#R-del -1#-1#11#R-del -1#-1#13#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#17#R-del -1#-1#16#A-mis-the -1#9#23#R-sub -1#8#-1#P-ins -1#10#-1#R-ins -1#11#-1#R-ins -1#19#-1#R-ins 
+
+this/DT renders/VBZ the/DT answer/NN perceptual/NN rather/RB than/IN factual/JJ and/CC is/VBZ often/RB a/DT red/JJ flag/NN ./.
+this/DT is/VBZ the/DT answer/NN wahrnehmend/NN rather/RB than/IN factual/JJ ,/, which/WDT often/RB the/DT alarm/NN bells/NNS ./.
+-1#0#0#exact -1#2#2#exact -1#3#3#exact -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#1#9#exact -1#10,11#10,11#para -1#14#14#exact 
+-1#4#-1#R-ins -1#4#4#R-sub -1#11#11#A-conf -1#9#8#R-sub -1#-1#1#R-del -1#-1#12#R-del -1#-1#13#R-del -1#12#-1#R-ins -1#13#-1#R-ins -1#8#-1#Punc 
+
+however/RB ,/, the/DT researchers/NNS had/VBD provided/VBN pieces/NNS of/IN wire/NN ./.
+however/RB ,/, the/DT researchers/NNS had/VBD them/PRP pieces/NNS of/IN wire/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact 
+-1#5#-1#R-ins -1#-1#5#R-del 
+
+this/DT year/NN ,/, carrefour/NN issued/VBN 2,5/CD million/CD contactless/JJ mastercards/NNS ./.
+carrefour/NN has/VBZ therefore/RB issued/VBN this/DT year/NN ,/, 2.5/CD million/CD contact/NN passport/NN master/NN cards/NNS ./.
+-1#4#0#exact -1#5#1#exact -1#6#2#exact -1#0#3#exact -1#3#4#exact -1#8#6#exact -1#13#9#exact 
+ -1#2#-1#R-ins -1#9#7#W -1#10#-1#R-ins -1#11,12#8#W -1#1#-1#R-ins 
+
+the/DT police/NN announced/VBD in/IN a/DT statement/NN that/IN around/IN 70/CD cinema/NN goers/NNS at/IN a/DT late/JJ night/NN viewing/VBG had/VBD to/TO leave/VB the/DT cinema/NN on/IN rathausstrasse/JJ shortly/RB after/IN midnight/NN ./.
+shortly/RB after/IN midnight/NN ,/, about/IN 70/CD visitors/NNS had/VBD to/TO leave/VB the/DT cinema/NN in/IN the/DT town/NN hall/NN road/NN ,/, the/DT police/NN said/VBD ./.
+-1#18#0#exact -1#19#1#exact -1#20#2#para -1#12#3#exact -1#4#6,7#para -1#5#8#exact -1#11#9#exact -1#7#16#exact -1#8#17#exact -1#9#18#exact -1#10#19#exact -1#0#23#exact -1#1#24#exact -1#2#25#exact -1#21#26#exact 
+-1#20#2#R-sub -1#4#7#R-sub -1#12#21#P-repl -1#13#-1#A-ex-the -1#-1#4#A-mis-a -1#-1#5#R-del -1#-1#10#R-del -1#-1#11#P-del -1#-1#12#A-mis-a -1#-1#13#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#20#R-del -1#-1#22#R-del -1#3#-1#Punc -1#6#-1#R-ins -1#14#-1#R-ins -1#15#-1#R-ins -1#16#-1#R-ins -1#17#-1#Punc -1#-1#6#P-del 
+
+on/IN improvising/VBG innovation/NN :/:
+how/WRB innovation/NN improves/VBZ :/:
+-1#1#2#exact -1#3#3#exact 
+-1#2#1#V -1#-1#0#P-del -1#0#-1#R-ins 
+
+their/PRP$ lives/NNS flicker/VBP here/RB like/IN votive/JJ candles/NNS lighted/VBN in/IN a/DT church/NN ;/: new/JJ ones/NNS are/VBP added/VBN to/TO the/DT mix/NN while/IN some/DT wink/NN out/RP ./.
+each/DT of/IN these/DT lives/NNS flackert/VBP such/JJ as/IN the/DT votivkerzen/NN in/IN a/DT church/NN ,/, some/DT ,/, while/IN others/NNS lapse/NN ./.
+-1#3#1#exact -1#9#8#exact -1#10#9#exact -1#11#10#exact -1#7#17#exact -1#15#19#exact -1#13#20#exact -1#18#23#exact 
+-1#8#-1#R-ins -1#4#-1#R-ins -1#4#2#R-sub -1#5,6#4#R-sub -1#7#-1#A-ex-the -1#16#-1#R-ins -1#-1#7#R-del -1#8#5,6#R-sub -1#-1#3#R-del -1#-1#0#R-del -1#-1#12#R-del -1#-1#13#R-del -1#-1#14#R-del -1#-1#15#R-del -1#-1#16#R-del -1#-1#11#Punc -1#12#-1#Punc -1#14#-1#Punc -1#-1#18#R-del -1#-1#21#R-del -1#-1#22#R-del -1#0#-1#A-other -1#1#-1#P-ins -1#2#-1#A-other -1#17#-1#R-ins 
+
+several/JJ people/NNS who/WP went/VBD through/IN the/DT site/NN noted/VBD that/IN in/IN the/DT country/NN house/NN ,/, whose/WP$ wall/NN is/VBZ beige/JJ with/IN brown/JJ ,/, the/DT gate/NN was/VBD wide/JJ open/JJ ./.
+several/JJ accidental/JJ saw/NN that/IN the/DT door/NN of/IN the/DT villa/NN surrounded/VBN by/IN a/DT beige/JJ brown/JJ wall/NN wide/JJ house/NN ./.
+-1#0#0#exact -1#4#5#exact -1#2,3#7,8#para -1#7#10#exact -1#16#12#exact -1#14#15#exact -1#5,6#16#para -1#12#17#exact -1#13#19#exact -1#15#24#exact -1#17#26#exact 
+-1#1#-1#R-ins -1#-1#6#R-del -1#-1#11#R-del -1#-1#9#P-del -1#11#-1#A-ex-a -1#-1#23#R-del -1#-1#25#R-del -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#R-del -1#-1#4#P-del -1#-1#14#R-del -1#-1#13#Punc -1#-1#20#Punc -1#-1#18#P-del -1#-1#21#A-mis-the -1#-1#22#R-del -1#8#-1#R-ins -1#9#-1#R-ins -1#10#-1#P-ins -1#2#7#R-sub -1#-1#16#R-del -1#5#-1#R-ins -1#6#-1#P-ins 
+
+france/NN and/CC the/DT rest/NN of/IN europe/NN are/VBP now/RB in/IN the/DT investors/NNS "/VBP spotlight/NN ./.
+france/NN and/CC the/DT rest/NN of/IN europe/NN in/IN the/DT focus/NN of/IN investors/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#8#exact -1#7#9#exact -1#10#10#exact -1#8#12#para -1#11#13#exact 
+ -1#8#12#R-sub -1#-1#6#R-del -1#-1#7#R-del -1#9#-1#P-ins 
+
+the/DT airline/NN also/RB has/VBZ an/DT option/NN to/TO buy/VB 20/CD more/JJR planes/NNS ,/, which/WDT would/MD push/VB the/DT total/JJ list/NN price/NN to/TO $/$ 26/CD billion/CD ,/, boeing/VBG announced/VBN at/IN the/DT 2011/CD dubai/NNS air/NN show/NN ./.
+the/DT airline/NN has/VBZ also/RB announced/VBN boeing/NN 2011/CD at/IN the/DT dubai/NNS air/NN show/NN ,/, an/DT option/NN to/TO buy/VB 20/CD more/JJR planes/NNS ,/, the/DT entire/JJ list/NN price/NN to/TO $/$ 26/CD trillion/CD dollars/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#3#2#exact -1#2#3#exact -1#13#4#exact -1#14#5#exact -1#15#6#exact -1#16#7#exact -1#17#8#exact -1#18#9#exact -1#19#10#exact -1#20#11#exact -1#21#15#exact -1#22#16#syn -1#23#17#exact -1#24#18#exact -1#25#19#exact -1#26#20#exact -1#27#21#exact -1#28,29#22#para -1#12#23#exact -1#5#24#exact -1#4#25#exact -1#7#26#exact -1#8#27#exact -1#6#28#exact -1#9#29#exact -1#10#30#exact -1#11#31#exact -1#30#32#exact 
+-1#29#-1#R-ins -1#28#22#R-sub -1#22#16#R-sub  -1#-1#12#R-del -1#-1#13#R-del -1#-1#14#R-del 
+
+the/DT courageous/JJ bystander/NN was/VBD taken/VBN to/TO hospital/NN for/IN outpatient/NN treatment/NN ./.
+the/DT workers/NNS came/VBD to/TO outpatient/NN treatment/NN in/IN a/DT hospital/NN ./.
+-1#0#0#exact -1#2#3#para -1#3#5#exact -1#8#6#exact -1#4#8#exact -1#5#9#exact -1#9#10#exact 
+-1#-1#3#V -1#2#4#R-sub  -1#7#-1#A-ex-a -1#6#-1#P-ins -1#-1#7#P-del -1#-1#1#R-del -1#-1#2#R-del -1#1#-1#R-ins 
+
+40/CD year/NN old/JJ seriously/RB injured/VBN during/IN robbery/NN
+the/DT 40/CD -/: year/NN old/JJ man/NN seriously/RB injured/VBN in/IN attack/NN
+-1#1#0#exact -1#3#1#exact -1#4#2#exact -1#6#3#exact -1#7,8#4,5#para -1#9#6#para 
+-1#0#-1#A-ex-the -1#2#-1#Punc -1#5#-1#R-ins -1#8#5#P-repl -1#9#6#R-sub 
+
+tales/NNS of/IN cheating/NN on/IN school/NN and/CC college/NN tests/NNS are/VBP rife/JJ ./.
+stories/NNS about/IN schummeln/NN at/IN school/NN and/CC college/NN tests/NNS are/VBP widespread/JJ ./.
+-1#0#0#syn -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#10#10#exact 
+-1#2#-1#R-ins -1#3#3#P-repl -1#1#1#P-orig -1#2#2#R-sub -1#0#0#R-sub -1#9#9#R-sub 
+
+labelle/NN lunged/VBD at/IN the/DT mom/NN -/: who/WP was/VBD still/RB holding/VBG genevieve/SYM -/: and/CC had/VBD to/TO be/VB restrained/VBN by/IN her/PRP$ entourage/NN and/CC pulled/VBD out/RP to/TO a/DT waiting/VBG car/NN ,/, roseanna/NN monk/NN said/VBD ./.
+labelle/NN crashed/VBD on/IN the/DT mother/NN ,/, who/WP still/RB genevieve/VBP was/VBD on/IN the/DT arm/NN ,/, and/CC her/PRP$ companion/NN had/VBD withheld/VBN and/CC be/VB drawn/VBN into/IN a/DT waiting/VBG car/NN ,/, said/VBD rose/VBD anna/NN monk/NN ./.
+-1#0#0#exact -1#3#3#exact -1#6#6#exact -1#9#7#exact -1#7#8#exact -1#8#10#exact -1#14#12#exact -1#17#13#exact -1#20#15#exact -1#15#18#exact -1#19#20#exact -1#23#24#exact -1#24#25#exact -1#25#26#exact -1#26#27#exact -1#30#29#exact -1#27#30#exact -1#31#31#exact 
+-1#4#4#R-sub -1#2#2#P-repl -1#1#1#R-sub -1#9#-1#V -1#-1#9#R-del -1#22#23#P-repl -1#16#-1#R-ins -1#18#-1#R-ins -1#21#-1#R-ins -1#-1#19#R-del -1#-1#14#P-del -1#-1#16#R-del -1#-1#17#P-del -1#-1#21#R-del -1#-1#22#R-del -1#-1#28#R-del -1#-1#5#Punc -1#-1#11#Punc -1#5#-1#Punc -1#10#-1#P-ins -1#11#-1#A-ex-the -1#12#-1#R-ins -1#13#-1#Punc -1#28#-1#R-ins -1#29#-1#R-ins 
+
+mario/NN pleased/JJ me/PRP by/IN praising/VBG my/PRP$ job/NN ./.
+mario/NN enjoyed/VBD ,/, he/PRP praised/VBD my/PRP$ "/NN creation/NN "/CD without/IN restrictions/NNS ./.
+-1#0#0#exact -1#4#4#stem -1#5#5#exact -1#11#7#exact 
+-1#4#4#V -1#3#-1#R-ins -1#-1#2#R-del -1#-1#3#P-del -1#-1#1#R-del -1#-1#6#R-del -1#1#-1#R-ins -1#7#-1#R-ins -1#10#-1#R-ins -1#9#-1#P-ins -1#2#-1#Punc -1#6#-1#Punc -1#8#-1#Punc 
+
+in/IN recent/JJ months/NNS ,/, this/DT support/NN became/VBD more/RBR and/CC more/RBR evident/JJ from/IN the/DT developments/NNS and/CC statements/NNS by/IN boko/NN haram/NN and/CC from/IN its/PRP$ methods/NNS of/IN operation/NN ,/, which/WDT increasingly/RB include/VBP resort/NN to/TO kamikazes/NNS and/CC to/TO increasingly/RB complex/JJ explosive/JJ engines/NNS of/IN the/DT same/JJ type/NN as/IN those/DT used/VBN by/IN aqmi/NNS ./.
+in/IN these/DT last/JJ few/JJ months/NNS this/DT "/CD assistance/NN "/CD in/IN its/PRP$ course/NN has/VBZ become/VBN ever/RB more/RBR obvious/JJ ,/, as/RB well/RB as/IN the/DT speeches/NNS ,/, as/RB well/RB as/IN the/DT operational/JJ modes/NNS of/IN boko/NN harem/NN ,/, which/WDT is/VBZ now/RB on/IN the/DT arrival/NN of/IN suicide/NN bombers/NNS ,/, as/RB well/RB as/IN the/DT use/NN of/IN evidence/NN always/RB complex/JJ explosives/NNS ,/, which/WDT bear/VBP the/DT same/JJ hallmarks/NNS as/IN those/DT used/VBN by/IN aqmi/NNS ./.
+-1#0#0#exact -1#2,3#1#para -1#4#2#exact -1#17#3#exact -1#5#4#exact -1#12,13#6#para -1#15#7#exact -1#27#12#exact -1#21,22#15#para -1#63#16#exact -1#31#17#exact -1#10#21#exact -1#29,30#22,23#para -1#33#25#exact -1#34#26#exact -1#47,48,49#29,30#para -1#51#33,34#para -1#52#35#exact -1#53#36#stem -1#40#38#exact -1#57#39#exact -1#58#40#exact -1#18#42#exact -1#61#43#exact -1#62#44#exact -1#64#46#exact -1#65#47#exact 
+-1#7#5#R-sub -1#6,8#-1#Punc -1#11#-1#R-ins -1#16#10#R-sub -1#14#-1#R-ins -1#21#-1#A-ex-the -1#22#15#R-sub -1#32#18#R-sub -1#-1#13#R-del -1#-1#11#P-del -1#-1#14#R-del -1#28#24#W -1#41,42#31#R-sub -1#59#41#R-sub -1#59#-1#N -1#50#-1#R-ins -1#-1#37#R-del -1#2,3#1#R-sub -1#-1#8#R-del -1#-1#9#R-del -1#-1#19#R-del -1#-1#20#P-del -1#29#22#R-sub -1#13#6#V -1#19#-1#R-ins -1#-1#27#R-del -1#-1#28#R-del -1#-1#32#R-del -1#53#36#W -1#24#-1#R-ins -1#25#-1#R-ins -1#26#-1#P-ins -1#35#-1#R-ins -1#36#-1#R-ins -1#39#-1#R-ins -1#37#-1#P-ins -1#38#-1#A-ex-the -1#44#-1#R-ins -1#45#-1#R-ins -1#46#-1#P-ins -1#55#-1#R-ins -1#56#-1#R-ins -1#60#-1#P-ins -1#20#-1#P-ins -1#1#-1#A-other -1#51#-1#R-ins -1#-1#34#R-del -1#-1#33#R-del -1#-1#29#R-del -1#-1#30#R-del -1#47#-1#A-ex-the -1#48#-1#R-ins -1#49#-1#P-ins -1#12#-1#R-ins 
+
+vallejo/NN appears/VBZ to/TO have/VB only/RB narrowly/RB edged/VBD out/IN calderon/NN ,/, who/WP had/VBD led/VBN polls/NNS before/IN election/NN day/NN ./.
+vallejo/NN claderon/NN seems/VBZ barely/RB to/TO have/VB led/VBN in/IN the/DT polls/NNS before/IN election/NN day/NN ./.
+-1#0#0#exact -1#4#2#exact -1#5#3#exact -1#3#4#para -1#6#12#exact -1#9#13#exact -1#10#14#exact -1#11#15#exact -1#12#16#exact -1#13#17#exact 
+-1#2#1#R-sub -1#1#8#R-sub -1#8#-1#A-ex-the -1#7#-1#P-ins -1#-1#5#R-del -1#-1#6#R-del -1#-1#7#P-del -1#-1#10#R-del -1#-1#11#R-del -1#-1#9#Punc -1#3#4#R-sub 
+
+at/IN noon/NN the/DT ashes/NNS of/IN the/DT lieutenant/NN colonel/NN arrived/VBD at/IN the/DT chapel/NN located/VBN on/IN the/DT boulevard/NN nazario/NN ortiz/NN garza/NN ,/, where/WRB family/NN and/CC friends/NNS were/VBD coming/VBG ./.
+at/IN high/JJ noon/NN landed/VBD the/DT ashes/NNS of/IN the/DT lieutenant/NN colonel/NN in/IN the/DT mourning/VBG hall/NN ,/, at/IN the/DT tabloid/JJ nazario/NN ortiz/NN garza/NN ,/, and/CC where/WRB the/DT families/NNS and/CC friends/NNS ./.
+-1#0#0#exact -1#2#1#exact -1#4#2#exact -1#5#3#exact -1#6#4#exact -1#7#5#exact -1#8#6#exact -1#9#7#exact -1#15#9#exact -1#16#10#exact -1#11#14#exact -1#18#16#exact -1#19#17#exact -1#20#18#exact -1#21#19#exact -1#23#20#exact -1#24,25,26#21,22#para -1#27#23#exact -1#28#26#exact 
+-1#1#-1#R-ins -1#3#8#R-sub -1#10#9#P-repl -1#12,13#11#R-sub -1#25#21#N -1#22#-1#R-ins -1#17#15#R-sub -1#-1#12#R-del -1#-1#13#P-del -1#-1#24#R-del -1#-1#25#R-del -1#14#-1#Punc -1#24#-1#A-ex-the 
+
+the/DT 21/CD year/NN old/JJ was/VBD taken/VBN to/TO hospital/NN ./.
+the/DT 21/CD year/NN old/JJ person/NN came/VBD into/IN the/DT hospital/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#5#4#para -1#7,8#6,7#para -1#9#8#exact 
+-1#4#-1#R-ins -1#-1#4#V -1#5#5#R-sub -1#6#6#P-repl -1#7#-1#A-ex-the  
+
+according/VBG to/TO the/DT data/NNS transmitted/VBN by/IN the/DT perp/NN the/DT difference/NN between/IN the/DT first/JJ and/CC second/JJ place/NN in/IN the/DT gubernatorial/JJ election/NN is/VBZ of/IN only/RB 27/CD percent/NN ,/, even/RB without/IN counting/VBG the/DT votes/NNS corresponding/JJ to/TO 879/CD of/IN the/DT total/NN of/IN 6.074/CD minutes/NNS ./.
+according/VBG to/TO the/DT information/NN provided/VBN by/IN prep/NN ,/, the/DT difference/NN between/IN the/DT first/JJ and/CC second/JJ place/NN in/IN the/DT election/NN of/IN the/DT governor/NN just/RB 27/CD percent/NN ,/, with/IN 879/CD votes/NNS from/IN a/DT total/NN of/IN 6074/CD have/VBP not/RB yet/RB been/VBN counted/VBN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#syn -1#4#4#para -1#5#5#exact -1#20#6#exact -1#8#8#exact -1#9#9#exact -1#10#10#exact -1#11#11#exact -1#12#12#exact -1#13#13#exact -1#14#14#exact -1#15#15#exact -1#16#16#exact -1#17#17#exact -1#18#19#exact -1#37#20#syn -1#19#21#exact -1#22#22#syn -1#23#23#exact -1#24#24#exact -1#25#25#exact -1#36#26#syn -1#35#27#para -1#38#28#stem -1#28#30#exact -1#27#33#exact -1#32#34#exact -1#30,31#35,36#para -1#39#40#exact 
+-1#-1#6#A-mis-the -1#6#7#R-sub -1#7#-1#Punc -1#21#18#W  -1#-1#39#R-del -1#38#28#V -1#30#35#A-conf -1#29#34#P-repl -1#-1#29#A-mis-the -1#-1#31#R-del -1#-1#32#R-del -1#34#-1#R-ins -1#26#-1#P-ins -1#3#3#R-sub -1#22#22#R-sub -1#36#26#R-sub -1#37#-1#R-ins 
+
+in/IN this/DT respect/NN ,/, the/DT palinode/NN of/IN a/DT true/JJ false/JJ greek/JJ referendum/NN will/MD have/VB a/DT double/JJ revelatory/JJ value/NN ,/, that/IN of/IN a/DT need/NN of/IN a/DT powerful/JJ reversal/NN of/IN policy/NN ,/, but/CC also/RB that/DT of/IN the/DT worrying/JJ sentiment/NN of/IN its/PRP$ impossibility/NN and/CC of/IN its/PRP$ incongruity/NN ./.
+the/DT change/NN of/IN heart/NN of/IN the/DT greek/JJ casual/JJ counterfeiting/NN referendum/NN would/MD have/VB been/VBN doubly/RB interesting/JJ character/NN in/IN this/DT respect/NN :/: the/DT need/NN for/IN a/DT powerful/JJ return/NN of/IN the/DT policy/NN ,/, on/IN the/DT other/JJ hand/NN ,/, but/CC also/RB those/DT of/IN the/DT disturbing/JJ sense/NN of/IN the/DT impossibility/NN of/IN their/PRP$ unangebrachtheit/NN ./.
+-1#16#0#exact -1#17#1#exact -1#18#2#exact -1#29#3#exact -1#0#4#exact -1#2#6#exact -1#23#7#exact -1#6#10#exact -1#9#11#exact -1#11#13#exact -1#13#14,15#para -1#34#18#exact -1#4#20#exact -1#20,21#21,22#para -1#38#23#exact -1#24#25#exact -1#1#26#para -1#42#27#exact -1#28#28#exact -1#35#30#exact -1#36#31#exact -1#26#33#exact -1#27#34#exact -1#14#35#syn -1#45#37#exact -1#46#38#para -1#44#39#exact -1#48#44#exact 
+-1#5#-1#A-ex-the -1#10#12#V -1#13#15#W -1#-1#14#A-mis-a -1#12#-1#R-ins -1#15#-1#R-ins -1#20#21#A-conf -1#22#23#P-repl -1#27#-1#A-ex-the -1#25#26#R-sub -1#41#36#R-sub -1#47#-1#R-ins -1#43#-1#A-ex-the -1#37#32#N -1#40#35#R-sub -1#-1#5#R-del -1#-1#8#R-del -1#-1#9#R-del -1#-1#16#R-del -1#-1#17#R-del -1#-1#19#P-del -1#-1#24#A-mis-a -1#-1#29#Punc -1#-1#40#R-del -1#-1#42#R-del -1#-1#43#R-del -1#-1#41#P-del -1#3#-1#R-ins -1#7#-1#R-ins -1#8#-1#R-ins -1#14#-1#R-ins -1#19#-1#Punc -1#30#-1#P-ins -1#31#-1#A-ex-the -1#32#-1#R-ins -1#33#-1#R-ins 
+
+"/IN the/DT problem/NN is/VBZ that/IN there/EX are/VBP still/RB many/JJ undocumented/JJ colombians/NNS ,/, "/NN said/VBD cti/NNS expert/NN ./.
+"/IN the/DT problem/NN is/VBZ that/IN there/EX are/VBP still/RB many/JJ colombians/NNS without/IN papers/NNS ,/, "/NN said/VBD the/DT expert/NN from/IN the/DT cti/NNS ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#10#exact -1#12#11#exact -1#13#12#exact -1#14#13#exact -1#19#14#exact -1#16#15#exact -1#20#16#exact 
+-1#10,11#9#R-sub -1#15#-1#A-ex-the -1#18#-1#A-ex-the -1#17#-1#P-ins  
+
+the/DT portugal/NN of/IN paulo/NN bento/NN starts/VBZ its/PRP$ return/NN match/NN against/IN bosnia/NN (/CD 22h00/CD )/CD very/RB optimistically/RB ,/, this/DT tuesday/NN in/IN lisbon/NN ./.
+the/DT portuguese/JJ team/NN of/IN paulo/NN bento/NN looks/VBZ forward/RB with/IN great/JJ optimism/NN about/IN the/DT return/NN match/NN against/IN bosnia/NN (/CD 22/CD :/: 00/CD )/CD this/DT tuesday/NN in/IN lisbon/NN ./.
+-1#12#0#exact -1#0,1#1#para -1#3#2#exact -1#4#3#exact -1#5#4#exact -1#13#7#exact -1#14#8#exact -1#15#9#exact -1#16#10#exact -1#17#11#exact -1#21#13#exact -1#8,9#14#para -1#22#17#exact -1#23#18#exact -1#24#19#exact -1#25#20#exact -1#26#21#exact 
+-1#1#1#W -1#2#-1#R-ins -1#6,7#5#R-sub -1#10#15#W -1#8,9#14#R-sub -1#11#-1#P-ins -1#12#-1#A-ex-the -1#-1#6#R-del 
+
+what/WP 's/VBZ done/VBN by/IN colom/NN represents/VBZ an/DT executive/JJ process/NN after/IN getting/VBG exhausted/VBN all/DT legal/JJ and/CC constitutional/JJ courts/NNS to/TO prosecute/VB the/DT ex/FW head/NN of/IN state/NN between/IN 2000/CD and/CC 2004/CD ./.
+the/DT action/NN coloms/NNS is/VBZ an/DT act/NN of/IN government/NN ,/, which/WDT will/MD take/VB place/NN ,/, if/IN all/DT legal/JJ and/CC constitutional/JJ bodies/NNS on/IN the/DT sentencing/NN of/IN the/DT former/JJ staaatspräsidenten/NN (/CD 2000/CD -2004/CD )/NN ./.
+-1#2#4#stem -1#3#5#syn -1#4#6#exact -1#1#8#syn -1#11#10#syn -1#15#12#exact -1#16#13#exact -1#17#14#exact -1#18#15#exact -1#0#19#exact -1#24,25#20#para -1#23#22#exact -1#6,7#23#para -1#28#25#exact -1#31#28#exact 
+-1#26#-1#R-ins -1#2#4#N -1#0#-1#A-ex-the -1#-1#7#R-del -1#-1#9#R-del -1#-1#11#R-del -1#-1#21#R-del -1#-1#24#R-del -1#5#-1#R-ins -1#12#-1#R-ins -1#14#-1#R-ins -1#-1#0#R-del -1#-1#1#R-del -1#-1#2#R-del -1#-1#3#P-del -1#-1#16#R-del -1#-1#17#R-del -1#-1#18#R-del -1#-1#26#R-del -1#9#-1#R-ins -1#10#-1#R-ins -1#19#-1#R-ins -1#22#-1#R-ins -1#20#-1#P-ins -1#21#-1#A-ex-the -1#1#8#R-sub -1#3#5#R-sub -1#11#10#R-sub -1#27#-1#Punc -1#30#-1#Punc -1#8#-1#Punc -1#13#-1#Punc 
+
+the/DT tram/NN driver/NN was/VBD slightly/RB injured/VBN ./.
+the/DT tram/NN driver/NN was/VBD slightly/RB injured/VBN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#6#exact 
+
+
+"/CD sixty/CD six/CD parent/NN coordinators/NNS were/VBD laid/VBN off/RP ,/, "/VBP the/DT draft/NN complaint/NN says/VBZ ,/, "/CD and/CC not/RB merely/RB excessed/VBN ./. "/SYM
+"/SYM sechsundsechzig/NN care/NN coordinators/NNS have/VBP been/VBN laid/VBN off/RP ,/, "/NN says/VBZ the/DT draft/NN ./.
+-1#0#0#exact -1#3#4#exact -1#4,5#5#para -1#6#6#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#11#10#exact -1#12#11#exact -1#10#13#exact -1#13#20#exact 
+-1#1#-1#R-ins -1#1#1,2#R-sub -1#2#3#R-sub -1#4#-1#V  -1#-1#12#R-del -1#-1#14#Punc -1#-1#15#Punc -1#-1#16#R-del -1#-1#17#R-del -1#-1#18#R-del -1#-1#19#R-del -1#-1#21#Punc 
+
+the/DT police/NN announced/VBD in/IN a/DT statement/NN that/IN one/CD 19/CD year/NN old/JJ has/VBZ been/VBN arrested/VBN subsequently/RB on/IN suspicion/NN ./.
+as/IN the/DT police/NN announced/VBD further/RB ,/, a/DT 19/CD -/: year/NN under/IN suspicion/NN could/MD be/VB arrested/VBN a/DT little/JJ later/JJ ./.
+-1#1#0#exact -1#2#1#exact -1#3#2#exact -1#6#4#exact -1#7#8#exact -1#9#9#exact -1#13#12#syn -1#14#13#exact -1#11#16#exact -1#18#17#exact 
+-1#0#-1#R-ins -1#4#-1#R-ins -1#8#-1#Punc -1#10#15#P-repl -1#-1#5#R-del -1#-1#3#P-del -1#-1#10#R-del -1#-1#14#R-del -1#13#12#V -1#-1#6#P-del -1#-1#7#R-del -1#-1#11#R-del -1#12#-1#R-ins -1#16#-1#R-ins -1#17#-1#R-ins -1#15#-1#A-ex-a 
+
+the/DT others/NNS are/VBP the/DT german/JJ companies/NNS e.on/VBP and/CC basf/VBP (/CD 15.5/CD %/NN each/DT )/NN and/CC the/DT dutch/JJ gasunie/NN and/CC the/DT french/JJ group/NN gdf/NN suez/NN (/CD 9/CD %/NN each/DT )/NN ./.
+furthermore/RB ,/, the/DT german/JJ companies/NNS e./VBP on/IN and/CC basf/IN (/CD to/TO 15.5/CD %/NN )/CD ,/, as/RB well/RB as/IN the/DT dutch/JJ gasunie/NN and/CC the/DT french/JJ company/NN gdf/NN suez/NN (/CD to/TO 9/CD %/NN )/CD ./.
+-1#18#0#exact -1#2#3#exact -1#3#4#exact -1#4#5#exact -1#7#7#exact -1#8#8#exact -1#9#9#exact -1#11#10#exact -1#12#11#exact -1#13#13#exact -1#21#14#exact -1#22#15#exact -1#19#16#exact -1#20#17#exact -1#23#20#exact -1#25#22#exact -1#26#23#exact -1#27#24#exact -1#29#25#exact -1#30#26#exact -1#31#28#exact -1#32#29#exact 
+-1#10#-1#P-ins -1#24#21#R-sub -1#28#-1#P-ins -1#0#-1#R-ins -1#-1#18#R-del -1#-1#1#R-del -1#-1#2#R-del -1#-1#12#A-other -1#-1#27#A-other -1#14#-1#Punc -1#15#-1#R-ins -1#16#-1#R-ins -1#17#-1#R-ins -1#1#-1#Punc 
+
+concerning/VBG china/NN ,/, iran/NN ,/, aid/NN to/TO israel/NN ,/, mitt/NN romney/NN ,/, herman/NN cain/NN ,/, and/CC rick/NN perry/NN compete/VB in/IN simplification/NN and/CC a/DT lack/NN of/IN knowledge/NN ./.
+mitt/NN romney/NN ,/, herman/NN cain/NN and/CC rick/NN perry/NN competing/VBG in/IN simplification/NN and/CC ignorance/NN about/IN china/NN ,/, iraq/NN ,/, as/RB well/RB as/IN the/DT provision/NN of/IN aid/NN to/TO israel/NN ./.
+-1#13#0#para -1#14#1#exact -1#15#2#exact -1#17#4#exact -1#24#5#exact -1#25#6#exact -1#26#7#exact -1#0#9#exact -1#1#10#exact -1#2#11#exact -1#3#12#exact -1#4#13#exact -1#5#15#exact -1#6#16#exact -1#7#17#exact -1#8,9#18,19#para -1#10#20#exact -1#11#21#exact -1#12#23#para -1#23#24#exact -1#27#26#exact 
+-1#16#3#R-sub -1#8#18#V -1#12#0#R -1#-1#22#A-mis-a -1#-1#25#R-del -1#18#-1#R-ins -1#19#-1#R-ins -1#20#-1#R-ins -1#22#-1#R-ins -1#21#-1#A-ex-the -1#-1#8#Punc -1#-1#14#Punc 
+
+a/DT great/JJ paradox/NN of/IN the/DT socialistic/JJ period/NN was/VBD that/IN citizens/NNS of/IN the/DT socialist/JJ block/NN (/CD ie/NN czechoslovaks/NNS too/RB )/CD were/VBD not/RB allowed/VBN free/JJ individual/JJ travel/NN within/IN the/DT socialist/JJ countries/NNS ./.
+it/PRP was/VBD a/DT great/JJ paradox/NN of/IN the/DT socialist/JJ times/NNS that/IN it/PRP was/VBD not/RB even/RB citizens/NNS of/IN the/DT soviet/JJ bloc/NN (/CD including/VBG the/DT tschechoslowaken/NN )/NN was/VBD allowed/VBN to/TO travel/VB freely/RB within/IN the/DT framework/NN of/IN the/DT socialist/JJ countries/NNS ./.
+-1#2#0#exact -1#3#1#exact -1#4#2#exact -1#5#3#exact -1#6#4#exact -1#7#5#stem -1#8#6#para -1#1#7#exact -1#9#8#exact -1#14#9#exact -1#15#10#exact -1#16#11#exact -1#34#12#exact -1#18#13#para -1#19#14#exact -1#23#18#exact -1#24#19,20,21#para -1#27#24#exact -1#29#25#exact -1#30#26#exact -1#35#28#exact -1#36#29#exact 
+-1#7#5#W -1#8#6#R-sub -1#17#12#R-sub -1#18#13#R-sub -1#22#-1#R-ins -1#22#16#R-sub -1#21#-1#A-ex-the -1#20#15#R-sub -1#24#19#V -1#28#22#W -1#31,32#-1#R-ins -1#26#-1#P-ins -1#-1#23#R-del -1#-1#17#R-del -1#10#-1#R-ins -1#11#-1#R-ins -1#12#-1#R-ins -1#13#-1#R-ins -1#0#-1#R-ins 
+
+"/CD if/IN i/FW am/VBP elected/VBN ,/, i/FW will/MD stop/VB iran/NN ,/, he/PRP trumpeted/VBD ./. "/SYM
+"/CD if/IN i/FW am/VBP elected/VBN ,/, i/FW commands/VBZ iran/NN ,/, "/NN he/PRP was/VBD on/IN hearing/NN ./.
+-1#0#0#exact -1#1#1#exact -1#2#2#exact -1#3#3#exact -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#8#9#exact -1#9#10#exact -1#11#11#exact -1#15#13#exact -1#10#14#exact 
+-1#-1#7#V -1#7#8#R-sub -1#-1#12#R-del -1#12#-1#R-ins -1#14#-1#R-ins -1#13#-1#P-ins 
+
+the/DT idea/NN brings/VBZ several/JJ interesting/JJ features/NNS ./.
+the/DT basic/JJ idea/NN involves/VBZ a/DT number/NN of/IN interesting/JJ elements/NNS ./.
+-1#0#0#exact -1#2#1#exact -1#4,5,6#3#para -1#7#4#exact -1#8#5#para -1#9#6#exact 
+-1#1#-1#R-ins -1#3#2#R-sub -1#8#5#R-sub -1#4,5,6#3#R-sub 
+
+a/DT minor/JJ contrast/NN to/TO costa/VB rica/NN ,/, comparing/VBG the/DT 22/CD players/NNS called/VBN by/IN both/DT countries/NNS for/IN the/DT friendly/JJ game/NN today/NN ,/, at/IN 3/CD :/: 05/CD pm/NN at/IN the/DT national/JJ stadium/NN in/IN san/NN jose/NN ./.
+a/DT huge/JJ difference/NN for/IN costa/NN rica/NN ,/, when/WRB the/DT 22/CD for/IN the/DT game/NN ,/, which/WDT is/VBZ today/NN at/IN 15.05/CD taking/VBG place/NN in/IN the/DT national/JJ stadium/NN in/IN san/NN josé/NN ,/, established/VBN players/NNS from/IN both/DT countries/NNS will/MD be/VB compared/VBN with/IN each/DT other/JJ ./.
+-1#0#0#exact -1#2#2,3#para -1#4#4#exact -1#5#5#exact -1#6#6#exact -1#35,36#7#para -1#8#8#exact -1#9#9#exact -1#30#10#exact -1#31,32#12,13#para -1#33#14#exact -1#10#15#exact -1#11#16#exact -1#12#18#exact -1#16#19#exact -1#13#20#exact -1#17#21#exact -1#22#27#exact -1#23#28#exact -1#24#29#exact -1#25#30#exact -1#26#31#exact -1#27#32#para -1#40#33#exact 
+-1#3#3#P-repl -1#2#2#R-sub -1#1#1#R-sub  -1#21#26#P-repl -1#29#-1#R-ins -1#34,35#-1#V -1#36#7#W -1#31#12#P-repl -1#-1#11#R-del -1#7#-1#R-ins -1#19#-1#R-ins -1#20#-1#R-ins -1#37#-1#R-ins -1#38#-1#R-ins -1#39#-1#R-ins -1#14#-1#R-ins -1#15#-1#R-ins -1#28#-1#Punc 

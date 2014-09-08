@@ -1,0 +1,28 @@
+main
+sub
+Missing_words,M,missing	Word_order,O,order Incorrect_words,W,wrong Unknown_words,U,unk Punctuation,P,NONE
+
+missing
+list
+Content_words,cont Filler_words,filler
+
+order
+sub
+Word_level,w,range Phrase_level,p,range
+
+wrong
+sub
+Sense,sense,sense Incorrect_form,form,NONE Extra_words,extra,NONE Style,style,NONE Idiom,idiom,NONE
+
+unk
+list
+Unknown_stem,stem Unseen_form,form
+
+range
+list
+Local,short Long,long
+
+sense
+sub
+Lexical_choice,lex,NONE Disambiguation,dis,NONE
+

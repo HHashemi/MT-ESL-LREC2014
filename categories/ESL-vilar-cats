@@ -1,0 +1,23 @@
+main
+sub
+Article_error,A,article Preposition_error,P,preposition Noun_number,N,NONE Verb_form,V,NONE Word_form,W,NONE Spelling,S,NONE Word_replacement,R,replacement Punctuation,Punc,NONE Word_order,O,order SemanticDif,SemDif,NONE ProblemRef,ProbRef,NONE notTranslated,NT,NONE 
+
+article
+list
+Missing_the,mis-the Missing_a,mis-a Extra_the,ex-the Extra_a,ex-a Confusion,conf Multiple_labels,mult Other,other
+
+preposition
+list
+Replacement,repl Insertion,ins Deletion,del With_origin,orig
+
+replacement
+list
+Substitution,sub Insertion,ins Deletion,del
+
+order
+sub
+Word_level,w,range Phrase_level,p,range
+
+range
+list
+Local,short Long,long
